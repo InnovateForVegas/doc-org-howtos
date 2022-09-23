@@ -25,6 +25,8 @@ These are English language sources and/or translations of C*For.Vegas HOWTOs and
 
 Please find these documents in this directory:
 
-| Document Link            | Summary                                           |
-|--------------------------|---------------------------------------------------|
-| [Welcome](welcome.md)    | Start here for some basics                        |
+| Document Link             | Summary                                           |
+|---------------------------|---------------------------------------------------|
+| [Welcome](welcome.md)     | Start here for some basic info!                   |
+| [CreateFor](createfor.md) | What is CreateFor.Vegas                           |
+| [CodeFor](codefor.md)     | What is CodeFor.Vegas                             |
