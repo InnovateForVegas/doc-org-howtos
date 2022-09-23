@@ -21,4 +21,10 @@
 
 These are English language sources and/or translations of C*For.Vegas HOWTOs and other methods and best practices, intended to be informative, normative, and in some cases authoritative information for those just joining the Code for Vegas Foundation as a civic volunteer, or for anyone who wants to see what goes on and how. As is stated in the top-level README, this is a live repository, always subject to revision to keep our volunteer organization operating smoothly.
 
+## Index
 
+Please find these documents in this directory:
+
+| Document Link            | Summary                                           |
+|--------------------------|---------------------------------------------------|
+| [Welcome](welcome.md)    | Start here for some basics                        |
