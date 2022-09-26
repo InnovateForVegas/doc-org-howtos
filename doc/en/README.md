@@ -25,12 +25,13 @@ These are English language sources and/or translations of C*For.Vegas HOWTOs and
 
 Please find these documents in this directory:
 
-| Document Link                  | Summary                                           |
-|--------------------------------|---------------------------------------------------|
-| [Welcome](welcome.md)          | Start here for some basic info!                   |
-| [CreateFor](createfor.md)      | What is CreateFor.Vegas                           |
-| [CodeFor](codefor.md)          | What is CodeFor.Vegas                             |
-| [Org Structure](orgchart.md)   | How we organizing our efforts                     |
-| [Tracking Progress](issues.md) | Making our projects go!                           |
-| [Public Release](labs.md)      | Launching our projects for people to test and use |
-| [Employment](jobs.md)          | Turning Job Skills and Volunteering into $$$      |
+| Document Link                  | Summary                                              |
+|--------------------------------|------------------------------------------------------|
+| [Welcome](welcome.md)          | Start here for some basic info!                      |
+| [GitHub](github.md)            | The beginning of the beginning about Git and GitHub  |
+| [CreateFor](createfor.md)      | What is CreateFor.Vegas                              |
+| [CodeFor](codefor.md)          | What is CodeFor.Vegas                                |
+| [Org Structure](orgchart.md)   | How we organizing our efforts                        |
+| [Tracking Progress](issues.md) | Making our projects go!                              |
+| [Public Release](labs.md)      | Launching our projects for people to test and use    |
+| [Employment](jobs.md)          | Turning Job Skills and Volunteering into $$$         |
