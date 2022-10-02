@@ -33,6 +33,7 @@ Please find these documents in this directory:
 | [CreateFor](createfor.md)      | What is CreateFor.Vegas                              |
 | [CodeFor](codefor.md)          | What is CodeFor.Vegas                                |
 | [Org Structure](orgchart.md)   | How we are organizing our efforts                    |
+| [Roadmaps](roadmaps.md)        | Planning and working on projects and components      |
 | [Tracking Progress](issues.md) | Making our projects go!                              |
 | [Public Release](labs.md)      | Launching our projects for people to test and use    |
 | [Employment](jobs.md)          | Turning Job Skills and Volunteering into $$$         |
