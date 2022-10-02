@@ -29,6 +29,7 @@ Please find these documents in this directory:
 |--------------------------------|------------------------------------------------------|
 | [Welcome](welcome.md)          | Start here for some basic info!                      |
 | [GitHub](github.md)            | The beginning of the beginning about Git and GitHub  |
+| [Secrets](secrets.md)          | Keep it secret, keep it safe                         |
 | [CreateFor](createfor.md)      | What is CreateFor.Vegas                              |
 | [CodeFor](codefor.md)          | What is CodeFor.Vegas                                |
 | [Org Structure](orgchart.md)   | How we organizing our efforts                        |
