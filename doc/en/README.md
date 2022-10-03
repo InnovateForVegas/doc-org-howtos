@@ -37,3 +37,4 @@ Please find these documents in this directory:
 | [Tracking Progress](issues.md) | Making our projects go!                              |
 | [Public Release](labs.md)      | Launching our projects for people to test and use    |
 | [Employment](jobs.md)          | Turning Job Skills and Volunteering into $$$         |
+| [MAYA](maya.md)                | Most Advanced. Yet Acceptable.                       |
