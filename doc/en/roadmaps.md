@@ -51,11 +51,15 @@ If we stick with our Open Transit example, suppose one team is going to implemen
 
 Backlog issues in the Overview repository will probably not have to much history before they are actually a part of some project repo, but there may actually be some commentary or other information attached. There are two ways to approach this:
 
-### Copy the Overview Issue to Each Repository
+### Copy the Overview Issue to Each Repository And Link
 
 In this case, we can assume that two or more repositories that are working on the same issue(s) in different ways to accomplish similar outcomes are beginning close in time. It makes sense to copy the original issue in the backlog to each new repo as part of their respective beginnings.
 
 As is always the case, this is a fork of the original issue and they will diverge in each project. This is completely acceptable in this case, since each project will make decisions and change directions as the team sees fit to accomplish the goal, but it is something to be aware of. Since the two issues have a common origin, it is possible that the divergence will yield some new information in each part of the fork, so it would be worthwhile to compare notes, so to speak, on the differences over time. This is a great item for a project manager to pay attention to.
+
+GitHub does support linking to issues in other repositories. It is a small amount of extra effort, but it is possible to link an issue in a particular component repository backlog to an issue in the overview backlog (and link back, for a double link) so  that there is a specific relationship that can be visited as needed through the development process.
+
+[GitHub Doc: Issue and PR Linking](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls#issues-and-pull-requests)
 
 ### Maintain a Single Issue
 
@@ -70,6 +74,8 @@ The hybrid manual+GitHub approach might be to keep the issue in the ov- backlog 
 Similarly, one fe- repository may be forked from another.
 
 This is probably not too easy to achieve, so issue forks seem likely, **if** there are multiple variants of a particular component.
+
+Unless some method can be devised making use of GitHub/Git methodologies, to track progress in multiple divergent repositories in one single top-level issue (in the ov- Backlog or elsewhere) is probably not worthwhile compared with the Copy-and-Link scheme previously described, unless projects grow to exceptional size. In these cases, it would be more appropriate to investigate external issue tracking tools (eg Jira).
 
 ## Project Lifecycle
 

@@ -41,9 +41,11 @@ Since almost all projects that Code for Vegas Foundation will pursue will be ong
 
 ## Top-level Issues
 
-What if there is no project component (software repository or external project in Figma or Penpot or any of many potential tools, even including pencil and paper) to open an issue against? GitHub issues may be moved between repositories, which means if there is not yet a suitable component repository, an issue may be opened for the top-level overview (ov-) repository, and moved later to the appropriate repository once one is created (or if there was some uncertainty when creating the issue initially).
+What if there is no project component (software repository or external project in Figma or Penpot or any of many potential tools, even including pencil and paper) to open an issue against? GitHub issues may be moved between repositories, which means if there is not yet a suitable component repository, an issue may be opened for the top-level overview (ov-) repository, and moved later to the appropriate repository once one is created (or if there was some uncertainty when creating the issue initially) or, even better, linked to a relevant issue created in a new component repository (which can link back) using GitHub issue linking syntax.
 
 [GitHub Doc: Transferring Issues Between Repositories](https://docs.github.com/en/issues/tracking-your-work-with-issues/transferring-an-issue-to-another-repository)
+
+[GitHub Doc: Issue and PR Linking](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls#issues-and-pull-requests)
 
 ## Project Managers and Issue Tracking
 
