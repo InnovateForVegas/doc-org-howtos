@@ -44,13 +44,13 @@ The first few steps are rather simple, that last one is where the real fun begin
 
 “It is better to light a candle than to curse the darkness.” —William L. Watkinson, 1907
 
-If you are new to the open source volunteer space, please take a moment and note these, keeping in mind as well that all of this Foundation is powered by volunteers, no matter what role they are playing. Their time and your time are contributed toward our Foundation goals, you will be working *with* your peers, not *for* anyone. Work on projects with this Foundation are not jobs, you are as empowered to contribute and collaborate as anyone else and you are encouraged to do so!
+If you are new to the open source volunteer space, please take a moment in this brief section, keeping in mind as well that all of this Foundation is powered by volunteers, no matter what role they are playing. Their time and your time are contributed toward our Foundation goals, you will be working *with* your peers, not *for* anyone. Working on projects with this Foundation is not a job, you are as empowered to contribute and collaborate as anyone else and you are encouraged to do so!
 
 If you do feel the need to compose an angry comment or private message about anything we work on or the way we do so, please first consider these:
 
 1. Read these Howto documents. If you are not Github-familiar, one of the things we need to do is adapt processes for those new to, or not interested in, use of tools such as that, to the extent it is reasonable to do. Offer up a discussion, issue, pull request, maybe even a whole new doc to add to the collection. Backlog and other project-related particulars are in here, it is important to read first, then light your keyboard on fire with hot takes. Better, do not spend time on hot takes…
 2. Show up. Virtually or in-person, be a part of conversations and contribute to them, find out who needs what, maybe you can help. 100% of the effort spent complaining about what isn’t being done for you can be spent on addressing what needs to be done.
-3. If you are not comfortable with making things from scratch (whatever it may be), the projects and direction of this Foundation may not be for you. Please depart quietly in that case, there is no shame in a mismatch. Just don't set the place on fire with your smoldering keyboard on your way.
+3. If you are not comfortable with making things from scratch (whatever the things may be), the projects and direction of this Foundation may not be for you. Please depart quietly in that case, there is no shame in a mismatch. Just don't set the place on fire with your smoldering keyboard on your way.
 
 ## Next Steps
 
