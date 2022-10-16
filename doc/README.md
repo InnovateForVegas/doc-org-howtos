@@ -25,6 +25,6 @@ However, if there is a need or want to practice content translation to other lan
 
 Please indicate per-file whether it is a source document, or a translation from a source document in another language, and make that indication in the language of the localized document.
 
-## Workflow
+## Translation Workflow
 
-If a source document is revised, please perform a machine translation on the revised source document for each supported localization and commit all changes simultaneously. This will prevent source language revisions from leading their translations based on human-translation delays. The machine-translated revisions can be fixed as needed by those comfortable with a particular language, with the understanding that such fixes may be undone if a source document is revised later and includes a machine-translated revision in the particular localized document.
+In order to be inclusive across language barriers, the documentation for this project is made translatable into other languages using the [GitLocalize](https://gitlocalize.com/) tools which have, as of this writing, been made available in the organization as an application to use for any repository.
