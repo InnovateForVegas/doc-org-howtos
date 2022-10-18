@@ -41,7 +41,6 @@ If you want to take a crash course in Git and GitHub, there is a very reasonable
 
 [YouTube: Git and GitHub For Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
-
 ## Projects and Repositories
 
 We are using the new form of GitHub Project to organize repository-based project issues, which are used to track progress through individual repository lifecycles. How does that sound?
@@ -97,6 +96,28 @@ In fact, you should enable two factor authentication (usually abbreviated 2FA an
 Continue reading the next articles linked within that first one and see how it works. It is not difficult, we use a hardware token device (a Yubikey) and a TOTP value generator similar to the Google Authenticator that came out a decade or so ago. Depending entirely on a username and password is risky, do the right thing for yourself, our organization, and the future of humanity (really, seriously).
 
 Caveat: If you are already logged into an account, whether it is your ancient and dead Facebook account, or your shiny GitHub account, the second factor is not always checked in all potentially-risky situations. If you are logged in to an account and you happen to click on a phishing email that takes advantage of that, you may run into trouble. However, most of the time the service in question will require you to verify your login credentials, ideally with your 2FA, to do critical things, for example changing your password or deleting your account. Learn to use 2FA and make it a great habit, and make sure you lobby for its use in products and service you work in into the future!
+
+## GitHub Discussions and Issues
+
+If you would like to participate in a project but you are not quite comfortable yet to edit code or start your own repository or all of the other fun stuff, consider reviewing a repository and adding to the Discussion for that repository, or consider creating a new Issue for that repository. These are relatively easy (especially a Discussion item, very similar to participating in any discussion forum anywhere) and will offer value to the project and team!
+
+Filing an Issue may seem more complicated, but remember that an Issue is just a more formal Discussion item that is assigned to a person and which can be used to track a change to the project repository later. This sounds complicated, it is not. An Issue is a *To Do* item. Any Discussion can be converted to an Issue and vice versa. Each Project Repository has Discussions enabled (if you find a repository that does not, it should or will), and all repositories have Issues enabled.
+
+These might be useful documents to read through:
+
+[GitHub Doc: Discussions](https://docs.github.com/en/discussions)
+
+[GitHub Doc: Issues](https://docs.github.com/en/issues)
+
+## GitHub Pull Requests
+
+A Pull Request is a workflow step that enables you to suggest a change to a project repository. The Pull Request, or PR, has become commonplace and so it is something to become familiar with. Pull Requests are not the only way to suggest changes but we are making use of this process since it is so common.
+
+Very simply put, a Pull Request is a request for someone maintaining a GitHub project repository, to consider your changes for merging into the repository. This method allows for change suggestions from those not actively participating in development in a particular repository, and is also good practice so that changes made can be reviewed before merging and possibly breaking an actively-developed project.
+
+Pull Requests include use of Repository Forks and Code Reviews and Discussions and are a way to synchronize collaboration without introducing too much confusion. A Pull Request can be somewhat complicated if you are new to collaborative project development, so please take a look at the GitHub documentarian for Pull Requests:
+
+[GitHub Doc: Pull Requests](https://docs.github.com/en/pull-requests)
 
 ## The End of The Beginning
 
