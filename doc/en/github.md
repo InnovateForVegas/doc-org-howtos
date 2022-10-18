@@ -37,6 +37,11 @@ If you have never used Git or GitHub before, there is a lot to learn, but starti
 
 [GitHub Doc: GitHub Cheatsheets](https://docs.github.com/en/get-started/quickstart/git-cheatsheet)
 
+If you want to take a crash course in Git and GitHub, there is a very reasonable tutorial offered by freeCodeCamp here:
+
+[YouTube: Git and GitHub For Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
+
+
 ## Projects and Repositories
 
 We are using the new form of GitHub Project to organize repository-based project issues, which are used to track progress through individual repository lifecycles. How does that sound?
