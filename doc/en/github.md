@@ -115,7 +115,7 @@ A Pull Request is a workflow step that enables you to suggest a change to a proj
 
 Very simply put, a Pull Request is a request for someone maintaining a GitHub project repository, to consider your changes for merging into the repository. This method allows for change suggestions from those not actively participating in development in a particular repository, and is also good practice so that changes made can be reviewed before merging and possibly breaking an actively-developed project.
 
-Pull Requests include use of Repository Forks and Code Reviews and Discussions and are a way to synchronize collaboration without introducing too much confusion. A Pull Request can be somewhat complicated if you are new to collaborative project development, so please take a look at the GitHub documentarian for Pull Requests:
+Pull Requests include use of Repository Forks and Code Reviews and Discussions and are a way to synchronize collaboration without introducing too much confusion. A Pull Request can be somewhat complicated if you are new to collaborative project development, so please take a look at the GitHub documentation for Pull Requests:
 
 [GitHub Doc: Pull Requests](https://docs.github.com/en/pull-requests)
 
