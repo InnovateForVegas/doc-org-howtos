@@ -1,5 +1,5 @@
 <!--
- Copyright (C) 2022 Code for Vegas Foundation
+ Copyright (C) 2022 Innovate for Vegas Foundation
  
  This file is part of doc-cfv-howtos.
  
@@ -19,7 +19,7 @@
 
 # English Language Documentation
 
-These are English language sources and/or translations of C*For.Vegas HOWTOs and other methods and best practices, intended to be informative, normative, and in some cases authoritative information for those just joining the Code for Vegas Foundation as a civic volunteer, or for anyone who wants to see what goes on and how. As is stated in the top-level README, this is a live repository, always subject to revision to keep our volunteer organization operating smoothly.
+These are English language sources and/or translations of C*For.Vegas HOWTOs and other methods and best practices, intended to be informative, normative, and in some cases authoritative information for those just joining the Innovate for Vegas Foundation as a civic volunteer, or for anyone who wants to see what goes on and how. As is stated in the top-level README, this is a live repository, always subject to revision to keep our volunteer organization operating smoothly.
 
 ## Index
 

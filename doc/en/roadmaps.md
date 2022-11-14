@@ -1,5 +1,5 @@
 <!--
- Copyright (C) 2022 Code for Vegas Foundation
+ Copyright (C) 2022 Innovate for Vegas Foundation
  
  This file is part of doc-cfv-howtos.
  
@@ -21,7 +21,7 @@
 
 Projects commence frequently. As of this writing, a new project topic is initiated each month, aligned with an overarching capstone project to connect everything in a grand scheme. Each project is a stand-alone undertaking as well. That is, each individual project or project topic, could stand on its own (though have designed to function in concert).
 
-Since Code for Vegas Foundation is an all-volunteer work force, it is difficult to commit people to tasks and tasks to a schedule. However, a general plan with a project roadmap is possible.
+Since Innovate for Vegas Foundation is an all-volunteer work force, it is difficult to commit people to tasks and tasks to a schedule. However, a general plan with a project roadmap is possible.
 
 Each project topic begins with an Overview captured in an ov- repository. This is where a roadmap belongs, initially through implication, and in some short interval, a rough idea of what needs to be done and in which order so that the various sub-components can align and result in some useful, or at least testable functionality. If we only finish a piece of the roadmap, those completed or nearly-completed pieces may or may not be so useful without the other half of that part of the roadmap, then what?
 
@@ -101,10 +101,10 @@ This can quickly become complicated, but it is something to think about in passi
 
 ## Tools and Methods
 
-Managing projects and roadmaps and all of the various parts and the people building and maintaining those parts, is a full-time job for one or more people, depending on the size of a project. For volunteer projects, the task is no less important, to manage a project and its moving parts, but it can be difficult to rely completely on a single point of failure (ie the project manager(s) may not have the time for whatever reason, they may depart the project temporarily or permanently, etc) so there will likely be a need for volunteers working on Code for Vegas Foundation projects to contribute some time to the various project management responsibilities.
+Managing projects and roadmaps and all of the various parts and the people building and maintaining those parts, is a full-time job for one or more people, depending on the size of a project. For volunteer projects, the task is no less important, to manage a project and its moving parts, but it can be difficult to rely completely on a single point of failure (ie the project manager(s) may not have the time for whatever reason, they may depart the project temporarily or permanently, etc) so there will likely be a need for volunteers working on Innovate for Vegas Foundation projects to contribute some time to the various project management responsibilities.
 
-As will come up frequently, use of GitHub is not completely ideal in all situations, but there are some minimally useful project management tools that are a decent start. Any Code for Vegas Foundation project will have an associated GitHub Project associated, as can be seen by visiting here:
+As will come up frequently, use of GitHub is not completely ideal in all situations, but there are some minimally useful project management tools that are a decent start. Any Innovate for Vegas Foundation project will have an associated GitHub Project feature, as can be seen by visiting here:
 
-[GitHub Projects: Code for Vegas Foundation](https://github.com/orgs/CodeForVegas/projects)
+[GitHub Projects: Innovate for Vegas Foundation](https://github.com/orgs/CodeForVegas/projects)
 
-The view of issues across component repositories for a given project can be useful, as can the Kanban view for one way of looking at movement along the project roadmap for some parts of the project and component lifecycles. There are other tools, such as Gantt and PERT charts, that can be more useful for time and progress, especially if there are budget or delivery deadline concerns. While projects may not have these considerations initially or as part of the Code for Vegas Foundation efforts, they may graduate to revenue-generating deployment or external development relationships with municipal partners, at which point these additional project management tools and methods will be useful. It will be a valuable addition to the job skills toolbox (for all, not only software coders) to learn how projects and the tools to manage them actually work, especially with the people who are making the project go as a part of the process.
+The view of issues across component repositories for a given project can be useful, as can the Kanban view for one way of looking at movement along the project roadmap for some parts of the project and component lifecycles. There are other tools, such as Gantt and PERT charts, that can be more useful for time and progress, especially if there are budget or delivery deadline concerns. While projects may not have these considerations initially or as part of the Innovate for Vegas Foundation efforts, they may graduate to revenue-generating deployment or external development relationships with municipal partners, at which point these additional project management tools and methods will be useful. It will be a valuable addition to the job skills toolbox (for all, not only software coders) to learn how projects and the tools to manage them actually work, especially with the people who are making the project go as a part of the process.

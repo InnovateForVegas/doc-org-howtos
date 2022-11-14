@@ -1,5 +1,5 @@
 <!--
- Copyright (C) 2022 Code for Vegas Foundation
+ Copyright (C) 2022 Innovate for Vegas Foundation
  
  This file is part of doc-cfv-howtos.
  
@@ -17,7 +17,7 @@
  along with doc-cfv-howtos.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-# GitHub and Code for Vegas Foundation
+# GitHub and Innovate for Vegas Foundation
 
 GitHub is a useful platform for a variety of things. Because it is essentially free to use for our needs.
 
@@ -77,7 +77,7 @@ As well, each of these is tagged with a cfv- tag per project, which will make it
 
 Should you sign your commits? **Yes**.
 
-Code for Vegas Foundation will be leaning heavily toward encryption, security, authentication, and all of these other readily-available technologies and methods and protocols that have existed for decades, but which many do not use! We aim to change this to make a more secure and privacy-aware Smart City!
+Innovate for Vegas Foundation will be leaning heavily toward encryption, security, authentication, and all of these other readily-available technologies and methods and protocols that have existed for decades, but which many do not use! We aim to change this to make a more secure and privacy-aware Smart City!
 
 What is a signed commit? Read here:
 
@@ -121,7 +121,7 @@ Pull Requests include use of Repository Forks and Code Reviews and Discussions a
 
 ## The End of The Beginning
 
-There is far too much to talk about regarding Git and GitHub, this Howto is here to help you jump on board the Code for Vegas Foundation team and you will learn about this tool and more throughout your time participating with your team and projects. If you need help with any of these steps and suggestions above, do not hesitate to reach out at a Hackathon Meetup or other gatherings, your colleagues are there to help. It is important that you are a part of a security-conscious and workflow-conscious cohort so that we can all make the most of our volunteer time and in so doing, learn valuable skills in areas of projects, project management, collaboration, experimentation, and of course the use of tools to shift your focus from mundane tasks to creativity!
+There is far too much to talk about regarding Git and GitHub, this Howto is here to help you jump on board the Innovate for Vegas Foundation team and you will learn about this tool and more throughout your time participating with your team and projects. If you need help with any of these steps and suggestions above, do not hesitate to reach out at a Hackathon Meetup or other gatherings, your colleagues are there to help. It is important that you are a part of a security-conscious and workflow-conscious cohort so that we can all make the most of our volunteer time and in so doing, learn valuable skills in areas of projects, project management, collaboration, experimentation, and of course the use of tools to shift your focus from mundane tasks to creativity!
 
 Git is not perfect and GitHub has its issues, but they do most of what we need well enough that we can depend on them to get you and us much farther (and further) down the path than if we did not have them. Worth your time to check this stuff out, see some initial references below, and do not for a moment believe that this is the end of the learning.
 

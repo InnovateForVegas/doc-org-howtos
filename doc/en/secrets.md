@@ -1,5 +1,5 @@
 <!--
- Copyright (C) 2022 Code for Vegas Foundation
+ Copyright (C) 2022 Innovate for Vegas Foundation
  
  This file is part of doc-cfv-howtos.
  
@@ -33,7 +33,7 @@ This may seem obvious, but how you manage your personal passwords and the tools 
 
 ## Non-personal Accounts
 
-As you participate in more projects and activities in an organization such as Code for Vegas Foundation, or maybe in your own collaborative projects, or in a job at any company, you may find yourself with accounts that are not really yours. Your company email address, a cloud service account, an alternate GitHub account for paid work projects using Enterprise Authentication, or any number of similar possibilities. In these cases, the account may have associated with it a lot more intellectual property, collaborative work, financial implications, and so on. Imagine that as painful and expensive as it may be if you were to lose or otherwise compromise your own password(s), allowing a non-personal account compromise can be even worse, and may involve more people than yourself. If you have established your own best practices for managing and protecting your own secrets, apply those best practices to the secrets attached to your non-personal accounts and services.
+As you participate in more projects and activities in an organization such as Innovate for Vegas Foundation, or maybe in your own collaborative projects, or in a job at any company, you may find yourself with accounts that are not really yours. Your company email address, a cloud service account, an alternate GitHub account for paid work projects using Enterprise Authentication, or any number of similar possibilities. In these cases, the account may have associated with it a lot more intellectual property, collaborative work, financial implications, and so on. Imagine that as painful and expensive as it may be if you were to lose or otherwise compromise your own password(s), allowing a non-personal account compromise can be even worse, and may involve more people than yourself. If you have established your own best practices for managing and protecting your own secrets, apply those best practices to the secrets attached to your non-personal accounts and services.
 
 It is important to connect non-personal accounts and associated secrets with the responsibility that goes with possessing those secrets and using those accounts.
 

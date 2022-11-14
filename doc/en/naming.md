@@ -1,5 +1,5 @@
 <!--
- Copyright (C) 2022 Code for Vegas Foundation
+ Copyright (C) 2022 Innovate for Vegas Foundation
  
  This file is part of doc-cfv-howtos.
  
@@ -50,7 +50,7 @@ Here is a tabular example summary of some naming convention ideas that could mak
 | app-project                   | A stand-alone or native application component of a project                                    |
 | ui-project                    | User Interface designs and elements, possibly in html, svg, or similar textual forms          |
 
-Organization of each repository, and of project components not stored within GitHub or a git repository in general, are likely to have their own particular needs based on programming language, architectural choices, and sensibility. Aside from inclusion of LICENSE and other standard files to comply with the Code for Vegas open source development and publishing scheme, naming conventions and repository organization are left to the contributors and consensus per repository.
+Organization of each repository, and of project components not stored within GitHub or a git repository in general, are likely to have their own particular needs based on programming language, architectural choices, and sensibility. Aside from inclusion of LICENSE and other standard files to comply with the Innovate for Vegas open source development and publishing scheme, naming conventions and repository organization are left to the contributors and consensus per repository.
 
 ### Reasoning behind name prefixes
 

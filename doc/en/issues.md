@@ -1,5 +1,5 @@
 <!--
- Copyright (C) 2022 Code for Vegas Foundation
+ Copyright (C) 2022 Innovate for Vegas Foundation
  
  This file is part of doc-cfv-howtos.
  
@@ -37,7 +37,7 @@ It is important to note here, that the backlog may include anything that is a pa
 
 In the GitHub scheme, work can begin on an issue, work progresses, the work is completed, and submitted for review. If all goes well, the issue is marked as Completed or in some cases, that the issue cannot or will not be addressed (this may mean deferring until later, or ignoring it completely). At some point in the future, it may be necessary to determine how a particular issue was addressed, and by whom, to follow up, identify potential solutions in other projects, as educational or reference material in general, or perhaps simply to attribute that contribution to the person who did the work.
 
-Since almost all projects that Code for Vegas Foundation will pursue will be ongoing and may never come to a formal end, it will always be useful to have a historical record of progress, innovation, and contribution, for all aspects of a project (not merely the code!), so that diligent use of these tools will benefit the teams working on a given project, on all projects over time (for posterity), and for your own job skills development. The ability to participate in a project management system will enable you to join a project already in progress, go through the closed items and the current backlog, and determine how the project and team are advancing, and where you can jump in and make a difference!
+Since almost all projects that Innovate for Vegas Foundation will pursue will be ongoing and may never come to a formal end, it will always be useful to have a historical record of progress, innovation, and contribution, for all aspects of a project (not merely the code!), so that diligent use of these tools will benefit the teams working on a given project, on all projects over time (for posterity), and for your own job skills development. The ability to participate in a project management system will enable you to join a project already in progress, go through the closed items and the current backlog, and determine how the project and team are advancing, and where you can jump in and make a difference!
 
 ## Top-level Issues
 
@@ -51,12 +51,12 @@ What if there is no project component (software repository or external project i
 
 One of the responsibilities of a project manager is to keep track of the issue tracker and the people filing issues, and make sure they are in the correct place (filed against the correct repository or project component), that they are useful (make sure there is enough information to enable work to be done based upon the issue), and that they are not aging (bugs never go away by themselves!). If there is a Project Manager helping out on a project, that person or team of people will be able to help determine issues with issues, and will help to keep the issues flowing from opened to closed.
 
-It is also important to note, that not all issues will be created by the individual who needs to create the issue. Consider a normal member of the community using a My Vegas feature who finds a problem and reports it in the Code for Vegas Foundation Discord community server though discussion. Capturing this issue is important, because mentions and chats and anecdotes are not a part of the project progress workflow. These findings need to be converted into actual issues so that they can be found and addressed. The source of the finding (with appropriate privacy awareness) should be noted in the issue.
+It is also important to note, that not all issues will be created by the individual who needs to create the issue. Consider a normal member of the community using a My Vegas feature who finds a problem and reports it in the Innovate for Vegas Foundation Discord community server though discussion. Capturing this issue is important, because mentions and chats and anecdotes are not a part of the project progress workflow. These findings need to be converted into actual issues so that they can be found and addressed. The source of the finding (with appropriate privacy awareness) should be noted in the issue.
 
 ## GitHub Projects
 
 We are making use of the new style GitHub Project to keep track of the various component repositories that belong to a particular project. For example, the Open Transit project is used to track issues for that project across the various component repositories that are associated with that project.
 
-As of this writing, this is a good place to begin learning about how GitHub has implemented the Issue tracking and Project management features that we will make use of for our Code for Vegas Foundation projects!
+As of this writing, this is a good place to begin learning about how GitHub has implemented the Issue tracking and Project management features that we will make use of for our Innovate for Vegas Foundation projects!
 
 [GitHub Doc: Issues (and Projects)](https://docs.github.com/en/issues)

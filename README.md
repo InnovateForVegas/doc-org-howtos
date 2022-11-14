@@ -1,5 +1,5 @@
 <!--
- Copyright (C) 2022 Code for Vegas Foundation
+ Copyright (C) 2022 Innovate for Vegas Foundation
  
  This file is part of doc-cfv-howtos.
  
@@ -17,18 +17,18 @@
  along with doc-cfv-howtos.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-# C*For Vegas HOWTOs and Best Practices
+# CodeFor and CreateFor .Vegas HOWTOs and Best Practices
 
-Basic HOWTOs and other useful and helpful information for all C*For Vegas contributors, including but not at all limited to use of GitHub and other project and source management tools. As with everything else, the goal is to be inclusive across contributors and their focus areas, talents, and time they are contributing to these civic projects on which we work.
+Basic HOWTOs and other useful and helpful information for all CodeFor and CreateFor .Vegas contributors, including but not at all limited to use of GitHub and other project and source management tools. As with everything else, the goal is to be inclusive across contributors and their focus areas, talents, and time they are contributing to these civic projects on which we work.
 
 Where possible we will attempt to make these compatible with those just entering the civic volunteerism arena, and those who have much more experience, hopefully one group will have something to learn from the other (which is which is for you to decide).
 
 ## Project Policies
 
-Unless otherwise and specifically indicated with replacement files in this repository, this project will adhere to the default Code for Vegas Foundation policies for Code of Conduct and Contributing, found at
+Unless otherwise and specifically indicated with replacement files in this repository, this project will adhere to the default Innovate for Vegas Foundation policies for Code of Conduct and Contributing, found at
 
-* [Code of Conduct - Code for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
-* [Contributing to this Project - Code for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CONTRIBUTING.md)
+* [Code of Conduct - Innovate for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
+* [Contributing to this Project - Innovate for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CONTRIBUTING.md)
 
 ## Contributing to This Project In Particular
 
