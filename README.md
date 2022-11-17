@@ -17,11 +17,15 @@
  along with doc-cfv-howtos.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-# CodeFor and CreateFor .Vegas HOWTOs and Best Practices
+# Organization, CodeFor, and CreateFor Methods and Best Practices
 
-Basic HOWTOs and other useful and helpful information for all CodeFor and CreateFor .Vegas contributors, including but not at all limited to use of GitHub and other project and source management tools. As with everything else, the goal is to be inclusive across contributors and their focus areas, talents, and time they are contributing to these civic projects on which we work.
+Basic HOWTOs and other useful and helpful information for all general Foundation project, CreateFor.vegas, and CodeFor.vegas contributors, including but not at all limited to use of GitHub and other project and source management tools. As with everything else, the goal is to be inclusive across contributors and their focus areas, talents, and time they are contributing to these civic projects on which we work.
 
 Where possible we will attempt to make these compatible with those just entering the civic volunteerism arena, and those who have much more experience, hopefully one group will have something to learn from the other (which is which is for you to decide).
+
+The *Project Policies* section below is a general README.md section found in all repositories by default, to explicitly indicate *Contribution* and *Code of Conduct* policies, which happen also to apply to our entire Foundation.
+
+Please visit the [doc/](doc/) directory within this repository to view and optionally improve our foundation documentation!
 
 ## Project Policies
 
@@ -32,7 +36,7 @@ Unless otherwise and specifically indicated with replacement files in this repos
 
 ## Contributing to This Project In Particular
 
-This project repository is intended to be helpful in general and into the future. This means that any HOWTO or link or piece of advice concerning a method or best practice, is subject to adjustment, general revision, or maybe even outright replacement. Whether you are comfortable with GitHub specifically or revision control in general, or not, be aware that these are most definitely living documents, and this project repository is intended to change with the times. Internet times.
+This project repository is intended to be helpful in general and into the future. This means that any document or link or piece of advice concerning a method or best practice, is subject to improvement, general revision, or maybe even outright replacement. Whether you are comfortable with GitHub specifically or revision control in general, or not, be aware that these are most definitely living documents, and this project repository is intended to change with the times. Internet times.
 
 If you have ideas for changes or additions (or subtractions), please do not hesitate to either make a Pull Request, or ask for some assistance if you have no idea what that is. It is not that difficult, not at all.
 
@@ -41,3 +45,5 @@ If you have ideas for changes or additions (or subtractions), please do not hesi
 Since this is a Howto and some help to onboard newcomers, it is not entirely inappropriate to include samples of code, such as helpful git scripts (maybe using the gh command line tool for GitHub?) or some snippets of YAML for configs or ansible or GitHub actions or who knows what else.
 
 Please make those examples stand-alone and non-destructive, do not have a new volunteer delete their hard drive even accidentally.
+
+In general, documentation and specification projects should not contain code (other than sample code snippets) or other project resources. These components should be placed and maintained in repositories of code, sample data, or other component sources such as scalable vector graphics (SVG) files, etc.
