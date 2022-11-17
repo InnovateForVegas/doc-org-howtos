@@ -33,7 +33,7 @@ While there is great flexibility in the onboarding workflow, the general order o
       2. If you do not already have a GitHub account, please sign up for one! It will be useful for many things, even if you are more interested in CreateFor.Vegas than CodeFor.Vegas and do not consider yourself a *coder* since we are using GitHub for project management and discussions.
       3. Share your GitHub username to [Addme + GitHub @ codeforvegas.org](mailto:addme+github@codeforvegas.org) to be added to the CodeForVegas organization on GitHub.
       4. Please do try to participate in the various projects which you find interesting, including reading announcements and discussions which relate to the areas you find interesting and wish to contribute to.
-3. Share your email address for our mailing list at [Addme @ codeforvegas.org](mailto:addme@codeforvegas.org). This is optional, but encouraged.
+3. Share your email address for our mailing list at [Addme+listserv @ codeforvegas.org](mailto:addme+listserv@codeforvegas.org). This is optional, but encouraged.
 4. Generate a PGP/GPG Key Pair for use on GitHub and for secure email, among other things.
 5. Join our self-hosted messaging server (Matrix) with a client of your choice
 6. Pick your project(s) and join a project team to commence creative work!
