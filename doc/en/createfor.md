@@ -49,7 +49,7 @@ We will always endeavor to keep track of and properly publish and provide attrib
 
 ## Collaboration
 
-The [CONTRIBUTING](https://github.com/CodeForVegas/.github/blob/main/CONTRIBUTING.md) document that applies by default to all projects and project repos, is a good starting point for exactly that. As you actually begin to work on projects, there may be some practical considerations that will make cooperation easier and more productive.
+The [CONTRIBUTING](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md) document that applies by default to all projects and project repos, is a good starting point for exactly that. As you actually begin to work on projects, there may be some practical considerations that will make cooperation easier and more productive.
 
 Most of that document is skewed more to the use of collaboration tools on the Coder side, as there are many established methods and workflows and tools and so on. Best practices for creation and maintenance of other types of creative works (even electronic hardware, which is a design process with its own challenges not like software development) are likely known best by those more experienced with, say, audio production, or content authoring, or even analog artwork creation.
 

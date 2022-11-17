@@ -26,14 +26,14 @@ So you want to volunteer your time to make our communities better? You have come
 While there is great flexibility in the onboarding workflow, the general order of operations is something like this:
 
 1. Read the following documents and ask questions if you have any.
-   1. [Code of Conduct - Innovate for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
-   2. [Contributing - Innovate for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CONTRIBUTING.md)
-2. Join the CodeForVegas organization on GitHub.
+   1. [Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
+   2. [Contributing - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
+2. Join the InnovateForVegas organization on GitHub.
       1. If you have no idea what this is, read about [GitHub](github.md) and git first, then come back here!
       2. If you do not already have a GitHub account, please sign up for one! It will be useful for many things, even if you are more interested in CreateFor.Vegas than CodeFor.Vegas and do not consider yourself a *coder* since we are using GitHub for project management and discussions.
-      3. Share your GitHub username to [Addme + GitHub @ codeforvegas.org](mailto:addme+github@codeforvegas.org) to be added to the CodeForVegas organization on GitHub.
+      3. Share your GitHub username to [Addme + GitHub @ innovateforvegas.org](mailto:addme+github@innovateforvegas.org) to be added to the InnovateForVegas organization on GitHub.
       4. Please do try to participate in the various projects which you find interesting, including reading announcements and discussions which relate to the areas you find interesting and wish to contribute to.
-3. Share your email address for our mailing list at [Addme+listserv @ codeforvegas.org](mailto:addme+listserv@codeforvegas.org). This is optional, but encouraged.
+3. Share your email address for our mailing list at [Addme+listserv @ innovateforvegas.org](mailto:addme+listserv@innovateforvegas.org). This is optional, but encouraged.
 4. Generate a PGP/GPG Key Pair for use on GitHub and for secure email, among other things.
 5. Join our self-hosted messaging server (Matrix) with a client of your choice
 6. Pick your project(s) and join a project team to commence creative work!
@@ -76,7 +76,7 @@ There will be specific documents in this repository with ideas, tools, and metho
 
 ## This Repository
 
-As with all repositories in the CodeForVegas GitHub organization , and all projects that are part of the Innovate for Vegas Foundation, this repository will be made better if you contribute to it. If you are not comfortable working with Markdown documents (files on GitHub ending with .md will tend to be Markdown), please join a discussion or create an issue in this repository so that edits, additions, or other changes can be made. The Open Source approach is in full effect, *If you see a problem, Fix it*. Or at least, tell someone about it.
+As with all repositories in the InnovateForVegas GitHub organization , and all projects that are part of the Innovate for Vegas Foundation, this repository will be made better if you contribute to it. If you are not comfortable working with Markdown documents (files on GitHub ending with .md will tend to be Markdown), please join a discussion or create an issue in this repository so that edits, additions, or other changes can be made. The Open Source approach is in full effect, *If you see a problem, Fix it*. Or at least, tell someone about it.
 
 ## Read On
 

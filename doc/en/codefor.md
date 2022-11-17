@@ -49,9 +49,9 @@ We will always endeavor to keep track of and properly publish and provide attrib
 
 ## Collaboration
 
-The [CONTRIBUTING](https://github.com/CodeForVegas/.github/blob/main/CONTRIBUTING.md) document that applies by default to all projects and project repos, is a good starting point for exactly that. As you actually begin to work on projects, there may be some practical considerations that will make cooperation easier and more productive.
+The [CONTRIBUTING](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md) document that applies by default to all projects and project repos, is a good starting point for exactly that. As you actually begin to work on projects, there may be some practical considerations that will make cooperation easier and more productive.
 
-Our CodeForVegas organization has [GitLive](https://git.live/) enabled across all public repositories. If you install the appropriate extension for your editor (see their website), you will be able to collaborate with other team members using live code editing screens and chat and whatnot. We can also use other tools such as the LiveShare services offered by Microsoft, and there are others that enable remote/virtual pair programming and similar.
+Our InnovateForVegas organization has [GitLive](https://git.live/) enabled across all public repositories. If you install the appropriate extension for your editor (see their website), you will be able to collaborate with other team members using live code editing screens and chat and whatnot. We can also use other tools such as the LiveShare services offered by Microsoft, and there are others that enable remote/virtual pair programming and similar.
 
 Each project team can settle on methods and workflow that work best for that part of a project, but generally speaking inclusion and communication should be the highest priorities. There some ideas presented in that CONTRIBUTING document, and there are likely other methods, this is where teamwork comes into play. There are the usual tools and methods associated with git GitHub (pull requests if those are a part of your team workflow, discussions, issues, projects, branches, tags, etc etc) and any other best practices that can bring non-code and non-git project elements into the mix.
 

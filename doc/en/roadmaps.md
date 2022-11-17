@@ -105,6 +105,6 @@ Managing projects and roadmaps and all of the various parts and the people build
 
 As will come up frequently, use of GitHub is not completely ideal in all situations, but there are some minimally useful project management tools that are a decent start. Any Innovate for Vegas Foundation project will have an associated GitHub Project feature, as can be seen by visiting here:
 
-[GitHub Projects: Innovate for Vegas Foundation](https://github.com/orgs/CodeForVegas/projects)
+[GitHub Projects: Innovate for Vegas Foundation](https://github.com/orgs/InnovateForVegas/projects)
 
 The view of issues across component repositories for a given project can be useful, as can the Kanban view for one way of looking at movement along the project roadmap for some parts of the project and component lifecycles. There are other tools, such as Gantt and PERT charts, that can be more useful for time and progress, especially if there are budget or delivery deadline concerns. While projects may not have these considerations initially or as part of the Innovate for Vegas Foundation efforts, they may graduate to revenue-generating deployment or external development relationships with municipal partners, at which point these additional project management tools and methods will be useful. It will be a valuable addition to the job skills toolbox (for all, not only software coders) to learn how projects and the tools to manage them actually work, especially with the people who are making the project go as a part of the process.

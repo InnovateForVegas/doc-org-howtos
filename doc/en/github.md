@@ -25,7 +25,7 @@ We ask that those who would like to participate in projects, whether they are Co
 
 ## Getting Started
 
-If you do not already have a GitHub account, please [sign up for one](https://github.com/). That part is completely free and it's a good idea to become familiar with this tool, and we are using it for important parts of our collaboration and project management workflows. If you already have a GitHub account but you want to keep your work with the [CodeForVegas Organization](https://github.com/CodeForVegas) separate, please do sign up for a new account and manage the use of that account for the participation you would like it associated with!
+If you do not already have a GitHub account, please [sign up for one](https://github.com/). That part is completely free and it's a good idea to become familiar with this tool, and we are using it for important parts of our collaboration and project management workflows. If you already have a GitHub account but you want to keep your work with the [InnovateForVegas Organization](https://github.com/InnovateForVegas) separate, please do sign up for a new account and manage the use of that account for the participation you would like it associated with!
 
 [GitHub Doc: Signing Up for a GitHub Account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
 
@@ -53,7 +53,7 @@ Each project will consist of at least one, and likely many more components, whic
 
 There is a top-level view of all organization projects that have been created (and are open, in the default view here), you can visit that page for our organization and see a list of projects to begin examining them:
 
-[CodeForVegas Projects](https://github.com/orgs/CodeForVegas/projects)
+[InnovateForVegas Projects](https://github.com/orgs/InnovateForVegas/projects)
 
 Since this is a live document, you will need to visit that link and discover the state of a given project at any given time, but suffice to say, as we gain traction using the [issue](issues.md) system per repository, we will begin to see how project management across project components can be an interesting challenge, made slightly easier with tools such as those GitHub offers (there are better, more capable, and much more expensive tools, to be sure).
 
@@ -65,11 +65,11 @@ First of all, a prefix helps with sorting and grouping in English Alphabet alpha
 
 For examples, Overview Repositories will begin with a leading *ov-* and will be named for the project itself, ie
 
-[ov-open-transit](https://github.com/CodeForVegas/ov-open-transit)
+[ov-open-transit](https://github.com/InnovateForVegas/ov-open-transit)
 
-[ov-smart-social](https://github.com/CodeForVegas/ov-smart-social)
+[ov-smart-social](https://github.com/InnovateForVegas/ov-smart-social)
 
-As well, each of these is tagged with a cfv- tag per project, which will make it easier to group CodeForVegas org repos by project. Tag names begin with *cfv-* since GitHub does not allow namespaced tags, so that if one were to tag a repository with *javascript* then ALL repositories with that tag are returned in a search. Constrained searches are available, but we can easily begin by tagging CodeForVegas project repositories with the *cfv-* formatted tags and achieve some convenience directly.
+As well, each of these is tagged with a cfv- and ifv- tag per project, which will make it easier to group InnovateForVegas org repos by project. Tag names begin with *cfv-* since GitHub does not allow namespaced tags, so that if one were to tag a repository with *javascript* then ALL repositories with that tag are returned in a search. Constrained searches are available, but we can easily begin by tagging InnovateForVegas project repositories with the *cfv-* and *ifv-* formatted tags and achieve some convenience directly.
 
 **Note**: GitHub tags are for our convenience, git tags are a part of the revision control scheme and are a different thing. If you are curious about this, start at the reference link below…
 

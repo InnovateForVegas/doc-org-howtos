@@ -31,7 +31,7 @@ As of this writing, the basic org structure in the GitHub Teams universe is some
 
 ```mermaid
 graph TD;
-    A[CodeForVegas]-->B[All Members];
+    A[InnovateForVegas]-->B[All Members];
     B-->C[Active Members];
     C-->M[Prj_OpenTransit];
     M-->N[PrjMgr_OpenTransit];
