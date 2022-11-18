@@ -1,7 +1,7 @@
 <!--
  Copyright (C) 2022 Innovate for Vegas Foundation
  
- This file is part of doc-cfv-howtos.
+ This file is part of doc-howtos.
  
  doc-cfv-howtos is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
@@ -31,8 +31,8 @@ Please visit the [doc/](doc/) directory within this repository to view and optio
 
 Unless otherwise and specifically indicated with replacement files in this repository, this project will adhere to the default Innovate for Vegas Foundation policies for Code of Conduct and Contributing, found at
 
-* [Code of Conduct - Innovate for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
-* [Contributing to this Project - Innovate for Vegas Foundation](https://github.com/CodeForVegas/.github/blob/main/CONTRIBUTING.md)
+* [Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
+* [Contributing to this Project - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
 
 ## Contributing to This Project In Particular
 
