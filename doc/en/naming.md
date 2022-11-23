@@ -35,19 +35,22 @@ Each Project will be comprised of many parts, some contained within repositories
 
 This is the top-level OverView repository, which will contain a high-level description of the project itself, a project specification if available, and any other relevant high-level resources and information. As an aside, it is important to note that this part of any project may be the starting point against which a backlog of issues may be opened before actual project work in other repositories or other external workspaces begins to take place. By using this repository in this way, a convenient entry point with a well-known naming scheme will enable newcomers to a project to start at the beginning.
 
+### General prefix scheme
+
 Additional repositories added to the project should adhere to a similar naming scheme, for example, **be-(project-name)** for backend code, **fe-(project-name)** for frontend code, **doc-(project-name)** for separate project documentation (perhaps including i18n and l10n work), and more may be added. This convention will, ideally, make navigating the GitHub repository organizational scheme (which is not much) easier as more repositories are added. Note that adding a suffix to **project-name** is acceptable to indicate more detail (eg if there is more than one backend or frontend repo for a given project, for experimentation or other).
 
 Here is a tabular example summary of some naming convention ideas that could make navigating a sea of repositories easier:
 
 | Example Repository Name       | Description                                                                                   |
 |-------------------------------|-----------------------------------------------------------------------------------------------|
-| ov-project-name               | Overview repository, top-level summary README, specs, etc                                     |
+| ov-project-name               | Overview repository, top-level summary README, specs, dev documentation, etc                  |
 | be-component-py               | A backend part of the project, written mostly in python                                       |
 | fe-component-js               | A frontend part of the project, written in javascript                                         |
 | api-project-name              | A stand-alone API coded spec (OpenAPI, etc) separated from language/platform implementation   |
+| spi-project-name              | A System Programming Interface, an API for internal use (between services, etc)               |
 | db-project-sql                | A database schema definition in sql                                                           |
 | doc-project                   | Project documentation intended for external use (users, developers, etc)                      |
-| app-project                   | A stand-alone or native application component of a project                                    |
+| app-project-js                | A stand-alone or native application component of a project                                    |
 | ui-project                    | User Interface designs and elements, possibly in html, svg, or similar textual forms          |
 
 Organization of each repository, and of project components not stored within GitHub or a git repository in general, are likely to have their own particular needs based on programming language, architectural choices, and sensibility. Aside from inclusion of LICENSE and other standard files to comply with the Innovate for Vegas open source development and publishing scheme, naming conventions and repository organization are left to the contributors and consensus per repository.
