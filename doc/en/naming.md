@@ -29,9 +29,9 @@ As with most things, there are various opinions when it comes to naming conventi
 
 There is a brief summary of this information in the Contributing.md document for all projects on which our Foundation is working, herein is an expanded treatise on the topic…
 
-Each Project will be comprised of many parts, some contained within repositories, others elsewhere. A top-level repository with this consistent naming scheme will help others to locate this top level and navigate the project component hierarchy:
+Each Project will be comprised of many parts, some contained within repositories, others elsewhere. A top-level repository with this consistent naming scheme will help others to locate this top level and navigate the project component hierarchy: the Overview Project Repository.
 
-### ov-(project-name)
+### Overview Repo ov-(project-name)
 
 This is the top-level OverView repository, which will contain a high-level description of the project itself, a project specification if available, and any other relevant high-level resources and information. As an aside, it is important to note that this part of any project may be the starting point against which a backlog of issues may be opened before actual project work in other repositories or other external workspaces begins to take place. By using this repository in this way, a convenient entry point with a well-known naming scheme will enable newcomers to a project to start at the beginning.
 
