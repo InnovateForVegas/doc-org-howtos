@@ -21,7 +21,7 @@
 
 “There are only two hard things in Computer Science: cache invalidation and naming things.”—Phil Karlton
 
-This is arguably applicable to nearly everything, from naming a child to naming a product to naming a company to naming a new start in a galaxy far, far away. Naming things can have contextual implications, cultural and linguistic implications, and regular old legal implications. They can also inform, or confuse, depending on which name you choose related to other names adjacent, in the present or in the future.
+This is arguably applicable to nearly everything, from naming a child to naming a product to naming a company to naming a new star in a galaxy far, far away. Naming things can have contextual implications, cultural and linguistic implications, and regular old legal implications. They can also inform, or confuse, depending on which name you choose related to other names adjacent, in the present or in the future.
 
 As with most things, there are various opinions when it comes to naming conventions, not to mention how best to express which version of that thing is available or in use or coming soon. For the sake of clarity, and to remove another few potential choices to make, we have some lines drawn in the sand regarding these two critically useful notions.
 
@@ -62,6 +62,8 @@ GitHub does not make it easy to group projects. The repository tags (see next se
 The choices for structured repository naming come down to either a fixed project name prefix, a language or framework prefix, or a repository type prefix. The name of the repository may vary from the project name per component repo as appropriate (for example, within the Smart Social project, there is a repository called be-smart-calendar-server-py which does not explicitly include the project name), and it we can group projects wit the repository tags detailed below for project and name, where the tags themselves have the problem use cases described.
 
 For structured naming, then, and with GitHub presenting projects sorted most easily by name or last-commit date (that is, Last Update, Name, and the not-useful Stars sort options) in the browser based interface, a prefix that indicates the repository type (see table above for examples) will naturally sort repositories into type sections, with the name of the project component useful thereafter to drill down to the desired component(s). A trailing language and/or framework suffix allows for similarly-named project components implemented in multiple ways, or with multiple types of external tools.
+
+Note also, this naming scheme is useful outside of GitHub, if there are multiple repositories in your local environment you can quickly sort and identify which is for what.
 
 ### Project Repository Naming Example
 
