@@ -93,7 +93,7 @@ We can accomplish some isolation by prefixing our repository tags with a known a
 
 A tag *opentransit* may show up across countless projects within GitHub (though as of this writing, it is unused globally, though there are opentransit project names to be found in a GitHub search). Using the naming prefix will avoid losing our limited search result set to a larger adoption of a particular topic tag later.
 
-This is not a guarantee, but it does make organization-wide topic tags more useful for a longer period of time. It is also possible and simple to add additional topic tags so that particular repositories **do** appear in searches for related topics. For example, a *python* or *postgresql* topic tag will place a particular project into those topics, along with eg *cfv-opentransit*.
+This is not a guarantee, but it does make organization-wide topic tags more useful for a longer period of time. It is also possible and simple to add additional topic tags so that particular repositories **do** appear in searches for related topics. For example, a *python* or *postgresql* topic tag will place a particular project into those topics, along with eg *ifv-opentransit*.
 
 You can visit the top level Topics section of GitHub for more information and to search and browse topics:
 
