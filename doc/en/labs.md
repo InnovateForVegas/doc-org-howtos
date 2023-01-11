@@ -19,9 +19,11 @@
 
 # Deploying Projects to Labs
 
-The concept of releasing software in an infrastructure labeled as being a “lab” is not uncommon. Google Labs, Apache Labs, and the list goes on, the notion is to deploy beta products based on projects that may or may not be completely ready for prime time, setting expectations for the users of these deployed products. They should work, they might sometimes not, and they may change over time, ideally for the better.
+The concept of releasing software in an infrastructure labeled as being a “Lab” is not uncommon. Google Labs, Apache Labs, Oracle Labs, Pinterest Labs, Strava Labs, and more, the notion is to deploy beta products based on projects that may or may not be completely ready for prime time, setting expectations for the users of these deployed products and projects accordingly. They should work, they might sometimes not, and they may change over time, ideally for the better.
 
-The notion of a Innovate for Vegas Foundation Labs deployment scheme will enable our volunteers to get projects in front of members of our communities (here in Las Vegas where we are based, and beyond) to try, regardless of whether there are formal arrangements to support projects with municipal partners and related agencies, which we will cover more in [jobs](jobs.md).
+The notion of a Innovate for Vegas Foundation Labs deployment scheme will enable our volunteers to get projects in front of members of our communities (here in Las Vegas where we are based, and beyond) to try, regardless of whether there are formal arrangements to support projects with municipal partners and related agencies, which we cover more in [jobs](jobs.md).
+
+An important component of any Labs deployments is that interaction with people (or others?) from our larger communities, who may find real value in what we do together (and perhaps your contributions specifically) and who would like to take part in a co-creation effort to join in on the development process directly. As always, this does not always mean joining in on coding, but may include suggestions for content, documentation, user interface, an so much more.
 
 ## Compensation
 
