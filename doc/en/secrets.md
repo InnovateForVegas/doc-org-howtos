@@ -57,9 +57,9 @@ There are two important concepts behind the notion of IAM, just as the name, *Id
 
 This is where your username and password, and ideally a second factor, are checked and verified. Just as the name, *Two Factor Authentication* implies, the second factor is an attempt to make more valid that verification that you are who or what you are claiming to be. This might also be the Access Key and Secret used to access cloud services, and other similar applications, or it could be a fingerprint, a retina scan, a facial scan, or any combination of the big three:
 
-* Something you have (a physical key, chip card, usb or nfc token, etc)
-* Something you are (your fingerprint, face, retina, blood, gait, etc)
-* Something you know (username, password, where you were born, the name of your pet, etc)
+- Something you have (a physical key, chip card, usb or nfc token, etc)
+- Something you are (your fingerprint, face, retina, blood, gait, etc)
+- Something you know (username, password, where you were born, the name of your pet, etc)
 
 When we say *two factor authentication* we are adding another factor from these three, so that while you may use your username and password (things you know), that second factor could be a 6-digit numeric value that changes every 20-60 seconds provided by a secure token (a thing you have, even if it is a Authenticator application on your mobile device). This makes it more difficult to compromise the proof of your identity that is authentication.
 
@@ -73,13 +73,13 @@ In other words, be aware of how your authenticated access is authorized, what is
 
 A few final thoughts on secrets and managing them:
 
-* Treat all secrets as if they were your own and controlled access to the most important things.
-* Never re-use passwords. Ever.
-* Become familiar with encryption of your credentials when you store them, whether locally on your phone or computer, or elsewhere.
-* Consider using a physical second factor authentication device for any accounts and services which support them
-* If your credentials have been compromised, change them as soon as is possible if you can, and alert the people who manage the associated services **immediately**.
-* Never paste your credentials into software source code, configuration files, graphic images, audio files, video files, on a wall, post-it note, or on your body via temporary or permanent tattoo. Ever.
-* Never share credentials. Shared secrets should be kept secret as though they are not shared.
-* Use secret access methods to retrieve secret credentials from vaults or similar mechanisms and do not store them in new places. Always get the secret from the vault, never the notepad.
+- Treat all secrets as if they were your own and controlled access to the most important things.
+- Never re-use passwords. Ever.
+- Become familiar with encryption of your credentials when you store them, whether locally on your phone or computer, or elsewhere.
+- Consider using a physical second factor authentication device for any accounts and services which support them
+- If your credentials have been compromised, change them as soon as is possible if you can, and alert the people who manage the associated services **immediately**.
+- Never paste your credentials into software source code, configuration files, graphic images, audio files, video files, on a wall, post-it note, or on your body via temporary or permanent tattoo. Ever.
+- Never share credentials. Shared secrets should be kept secret as though they are not shared.
+- Use secret access methods to retrieve secret credentials from vaults or similar mechanisms and do not store them in new places. Always get the secret from the vault, never the notepad.
 
 If there is ever a question about whether to store a secret credential some place that leads you ask at all, the answer is No.
