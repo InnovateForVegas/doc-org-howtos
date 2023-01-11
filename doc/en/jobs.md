@@ -21,17 +21,23 @@
 
 While the main goals, and purpose in fact, of the Innovate for Vegas Foundation, is to enable and encourage ideation, innovation, and implementation, to make our communities better, includes the practical development of job skills (not merely coding skills, but creative and technical skills, as well as communication and collaboration skills, customer engagement skills, and the list goes on), volunteering for our communities does not pay the bills for most of us. Thus there is another understated goal, to create actual jobs working on or with the very projects we are collaborating on by day as volunteers.
 
-As a public charity (IRS 501(c)(3) determination forthcoming as of this writing), the Innovate for Vegas Foundation is not easily able to employ people and take on revenue-generating projects directly. It is not a part of our stated purpose, and it complicates the accounting if there is a way to do this properly. Rather than attempting to complicate the organization with revenue generation, it makes more sense for all involved to support a for-profit entity which can employ people, with open source and creative commons starting points.
+As a 501(c)(3) public charity, the Innovate for Vegas Foundation is not easily able to employ people and take on revenue-generating projects directly. It is not a part of our stated purpose, and it complicates the accounting even if there is a way to do this properly. Rather than attempting to complicate the organization with revenue generation, it makes more sense for all involved to enable a for-profit entity or entities which can employ people, or at least monetize project work, with open source and creative commons starting points.
 
-## Arm’s Length
+## Arm’s Length For-profit Agency
 
 In order to support a for-profit entity for job creation and continued project development, that entity must be at *arm’s length* from Innovate for Vegas Foundation. It must be able to stand up as an independent company and operate without inappropriate interactions between this external company and our foundation. This means that for the most part, they will be two completely separate entities, especially financially.
 
 Since Innovate for Vegas Foundation is a civic volunteer organization, working on open source and creative commons projects aimed at elevating our communities, we are already able to work with external entities and they may use our published, licensed items as they see fit (as long as they adhere to the terms of the respective license). Since Innovate for Vegas Foundation retains the copyright of all contributed creative works, it would be possible to work directly with partner entities to release project variants but this will be discouraged.
 
-In general, an entity formed somewhere in Las Vegas, powered by Innovate for Vegas Foundation, and working with and for municipal partners, is a method we can pursue to create jobs, employing the volunteer contributors to the open source projects we are developing, so long as that entity is at *arm’s length* from our foundation.
+In general, an entity formed somewhere in Las Vegas, Powered by Innovate for Vegas Foundation, and working with and for municipal partners, could be used as a formal way to create jobs, employing the volunteer contributors to the open source projects we are developing, so long as that entity is at *arm’s length* from our foundation.
 
-It will all make sense as open source project development turns into continuing support and development for municipal partners and related agencies with actual statements of work and revenue and release schedules…
+It will all make sense as open source project development turns into continuing support and development for municipal partners and related agencies with actual statements of work and revenue and release schedules… this path may result in actual job roles and continuing project work, perhaps closed-source versions in lower-profile positions, but with more formal job experience.
+
+## Powering Projects
+
+Another method, less structured, to monetize project work and enable contributors to receive financial feedback, is to deploy projects in a [Labs](labs.md) scheme as described in more detail in that document, similar to many other well-known websites and companies (Google Labs, Apache Labs, and the list goes on) labeled as “Powered by Innovate for Vegas Foundation Volunteers” or similar, and with appropriate Donate or Support elements enabling end-users and consumers of any such services or content or other elements, to give back in a value-for-value model. With this approach, our organization might support a separate entity directly (this is planned), and others may deploy projects and optionally give back to our organization or individual contributors, or both, as they see fit.
+
+This model is completely normal in the world of open source and creative commons development, and in fact our organization has Sponsorship enabled in our Github account, which we can extend to our Labs deployments and, with some effort, to individual contributors per project. Since open source projects that show themselves to be valuable tend to get attention, this approach also enables contributors to point to deployed and useful projects (code or create) directly.
 
 ## Other Jobs and References
 
