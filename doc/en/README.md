@@ -36,6 +36,7 @@ Please find these documents in this directory:
 | [CreateFor](createfor.md)         | What is CreateFor.Vegas                              |
 | [CodeFor](codefor.md)             | What is CodeFor.Vegas                                |
 | [Org Structure](orgchart.md)      | How we are organizing our efforts                    |
+| [Volunteer Agile](agile.md)       | A Volunteer-org-compatible Agile workflow experiment |
 | [Roadmaps](roadmaps.md)           | Planning and working on projects and components      |
 | [Specs and Docs](specs-v-docs.md) | Normative and Authoritative Descriptions…            |
 | [Tracking Progress](issues.md)    | Making our projects go!                              |
