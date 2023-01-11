@@ -119,6 +119,21 @@ Pull Requests include use of Repository Forks and Code Reviews and Discussions a
 
 [GitHub Doc: Pull Requests](https://docs.github.com/en/pull-requests)
 
+## Attribution
+
+It is a fundamental tenet of our organization, to attribute work done to those responsible. GitHub is a great tool for this, in cases where an individual commits work, whether it is new, or a modification of previous work (and whether it is code, or references to other works). The git and GitHub (and GitLab, and others) model assumes there is a one-to-one correspondence between effort and an official commit, but this is not always the case!
+
+GitHub and GitLab (and to a lesser extent, git itself with external tools) support a Co-Author scheme, with references to collaborators included in Commit Comments in a structured way, so that these platforms will find and display the additional contributors to project commits (and thus, projects).
+
+[GitHub Co-Author Attribution](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors)
+
+There are two important notes here:
+
+1. The commit itself is still officially owned, and signed, by a single individual. This is not ideal in a future with collaboration being the norm, but it does make a reasonable assumption that a single *owner* of a new or changed element is responsible for it, with additional collaborators attributed explicitly. We will pursue this scheme and we will ask that all are careful to include collaborator attribution whenever it is appropriate.
+2. There are some cases where an individual may not wish to share their email address, and in these cases GitHub (and possibly other platforms) offers an indirect email address option. As you can see above, the co-author annotation scheme is based on email address, and the email address used must be associated with a GitHub (for example) account. While using a platform-specific indirect email address makes it difficult to move repositories to other platforms maintaining the attribution, this is a useable method to accomplish private attribution. See this document for GitHub, and remember to use the preferred email address for each of your co-authors whenever you collaborate so that they receive proper attribution!
+
+[GitHub Private Commit Email Addresses](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)
+
 ## The End of The Beginning
 
 There is far too much to talk about regarding Git and GitHub, this Howto is here to help you jump on board the Innovate for Vegas Foundation team and you will learn about this tool and more throughout your time participating with your team and projects. If you need help with any of these steps and suggestions above, do not hesitate to reach out at a Hackathon Meetup or other gatherings, your colleagues are there to help. It is important that you are a part of a security-conscious and workflow-conscious cohort so that we can all make the most of our volunteer time and in so doing, learn valuable skills in areas of projects, project management, collaboration, experimentation, and of course the use of tools to shift your focus from mundane tasks to creativity!
