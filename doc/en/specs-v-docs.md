@@ -35,7 +35,7 @@ When we create an overview repository and the content within, we are creating a 
 
 Not really. As with the scientific method, our hypothesis might lead to failure. However, failure is simple more data to feed back into our methods. We can always adjust our overview with additional and update specifications, and we can refer to any issues and discussions (in the GitHub scheme of things) built up along the way, on which to base our updated hypothesis. Normally technology projects at our scale will simply roll through the iterative process, with the parts of the project that are not working either dropped completely or altered to fit better. This is the nature of fixing bugs and releasing new versions. For non-technology projects, the same still holds, though sometimes the iteration and improvement process is different; if a logo or other visualization is not clear, for example, it may need to be revisited and changed, but one does not simply release a new version and call it a day.
 
-At any given time, our project overview should reflect what we would like the project to be, what we would like for it to do, and in general, indicate what its outcomes *should* be.
+At any given time, our project overview should reflect what we would like the project to be, what we would like for it to do, and in general, indicate what its outcomes *should* be. As we experiment with our [Volunteer Agile](agile.md) workflow, we will find that our Overviews will be much more useful if they are adaptive and flexible as we collaborate and capture feedback from our customers, and our peers.
 
 ## Authoritative Documentation
 
@@ -54,6 +54,8 @@ They are essentially the same.
 If a particular project or product is a requirement for a project component you are working on, you will sometimes encounter incorrect documentation, or so-called *undocumented features* which may cause strife or delay or other issues to consume your time and effort. The dependency may be on a project from some other organization (a company, an individual, some open source or closed source element, etc), or it may be on a project component from another volunteer team within our Foundation. In the case of the former, you may have to wait, or proactively reach out for a fix or update, perhaps with a suggestion or even a pull request or similar if that is something you feel comfortable doing. In the case of the latter, since our Foundation projects and components are all Open Source, you can do exactly the same thing, and perhaps you will know exactly who to address your pull request to…
 
 Another difference between internal and external components is, you are always welcome and encouraged to contribute to the specifications and documentation of our internal projects, and in a perfect world your contributions there will correspond to features and fixes and in general a better outcome than you found. External components are often less open to taking your suggestions, which is reasonable for anyone working on any project anywhere with suggestions coming in from others whom they do not know. In any case, though, the next time you are writing or updating a specification, or adjusting project documentation, consider who will be benefiting from your work and how their work benefits you!
+
+Part of our [Volunteer Agile](agile.md) will highlight the Internal vs External customer side of things, this will all become more clear as we practice and tune our workflow and collaborative methodologies.
 
 # References
 
