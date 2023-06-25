@@ -41,6 +41,16 @@ If you want to take a crash course in Git and GitHub, there is a very reasonable
 
 [YouTube: Git and GitHub For Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
+## Permissions
+
+Personal GitHub accounts (you probably have one, you should!) allow for the creating of fine-grained access tokens and control of your private and public repositories, the idea being that you own your personal account and its contents.
+
+The *InnovateForVegas* GitHub organization has owners, maintainers, teams, and multiple people associated with those roles, so things get slightly more complicated (but luckily not complex). Here are some links to look over if you have questions about access configuration, and of course if something seems to be configured incorrectly or non-ideally, say something!
+
+[GitHub Doc: Roles in Organizations](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/roles-in-an-organization#about-organization-roles)
+[GitHub Doc: Team Maintainers](https://docs.github.com/en/organizations/organizing-members-into-teams/assigning-the-team-maintainer-role-to-a-team-member)
+[GitHub Doc: Repository Roles for an Organization](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/repository-roles-for-an-organization)
+
 ## Projects and Repositories
 
 We are using the new form of GitHub Project to organize repository-based project issues, which are used to track progress through individual repository lifecycles. How does that sound?
