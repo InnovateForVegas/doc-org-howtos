@@ -25,21 +25,20 @@ These are English language sources and/or translations of C*For.Vegas HOWTOs and
 
 Please find these documents in this directory:
 
-| Document Link                     | Summary                                              |
-|-----------------------------------|------------------------------------------------------|
-| [Welcome](welcome.md)             | Start here for some basic info!                      |
-| [Volunteering](volunteering.md)   | What is Volunteering and how to do it!               |
-| [PKI](publickey.md)               | Public Key Infrastructure, PGP, GnuPG, etc…          |
-| [GitHub](github.md)               | The beginning of the beginning about Git and GitHub  |
-| [Naming Things](naming.md)        | Naming and Tagging repositories for finding them     |
-| [Secrets](secrets.md)             | Keep it secret, keep it safe                         |
-| [CreateFor](createfor.md)         | What is CreateFor.Vegas                              |
-| [CodeFor](codefor.md)             | What is CodeFor.Vegas                                |
-| [Org Structure](orgchart.md)      | How we are organizing our efforts                    |
-| [Volunteer Agile](agile.md)       | A Volunteer-org-compatible Agile workflow experiment |
-| [Roadmaps](roadmaps.md)           | Planning and working on projects and components      |
-| [Specs and Docs](specs-v-docs.md) | Normative and Authoritative Descriptions…            |
-| [Tracking Progress](issues.md)    | Making our projects go!                              |
-| [Public Release](labs.md)         | Launching our projects for people to test and use    |
-| [Employment](jobs.md)             | Turning Job Skills and Volunteering into $$$         |
-| [MAYA](maya.md)                   | Most Advanced. Yet Acceptable.                       |
+| Document Link                                                       | Summary                                              |
+|---------------------------------------------------------------------|------------------------------------------------------|
+| [Welcome](welcome.md)                                               | Start here for some basic info!                      |
+| [Volunteering](volunteering.md)                                     | What is Volunteering and how to do it!               |
+| [Creating + Coding + Contributing](coding-creating-contributing.md) | Not everything is code!                              |
+| [PKI](publickey.md)                                                 | Public Key Infrastructure, PGP, GnuPG, etc…          |
+| [GitHub](github.md)                                                 | The beginning of the beginning about Git and GitHub  |
+| [Naming Things](naming.md)                                          | Naming and Tagging repositories for finding them     |
+| [Secrets](secrets.md)                                               | Keep it secret, keep it safe                         |
+| [Org Structure](orgchart.md)                                        | How we are organizing our efforts                    |
+| [Volunteer Agile](agile.md)                                         | A Volunteer-org-compatible Agile workflow experiment |
+| [Roadmaps](roadmaps.md)                                             | Planning and working on projects and components      |
+| [Specs and Docs](specs-v-docs.md)                                   | Normative and Authoritative Descriptions…            |
+| [Tracking Progress](issues.md)                                      | Making our projects go!                              |
+| [Public Release](labs.md)                                           | Launching our projects for people to test and use    |
+| [Employment](jobs.md)                                               | Turning Job Skills and Volunteering into $$$         |
+| [MAYA](maya.md)                                                     | Most Advanced. Yet Acceptable.                       |
