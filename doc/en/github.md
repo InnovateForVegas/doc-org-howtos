@@ -35,7 +35,7 @@ Once you have an account, you will probably want to familiarize yourself with ho
 
 If you have never used Git or GitHub before, there is a lot to learn, but starting out with reading this document and the other Howto information we are creating for our volunteers, looking at other repositories and reading other related documentation, watching various YouTube video tutorials, and simply asking questions of your fellow volunteers will help you become familiar.
 
-[GitHub Doc: GitHub Cheatsheets](https://docs.github.com/en/get-started/quickstart/git-cheatsheet)
+[GitHub Doc: Git and GitHub Learning Resources](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources)
 
 If you want to take a crash course in Git and GitHub, there is a very reasonable tutorial offered by freeCodeCamp here:
 
