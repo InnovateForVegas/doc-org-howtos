@@ -25,20 +25,17 @@ So you want to volunteer your time to make our communities better? You have come
 
 While there is great flexibility in the onboarding workflow, the general order of operations is something like this:
 
-1. Read the following documents and ask questions if you have any.
+1. Read the following documents and ask questions if you have any. Our *contributing* document is long and applies to all types of Initiatives and all kinds of Contributors and so on; all contributors are responsible for its concent, read or not:
    1. [Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
    2. [Contributing - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
 2. Join the InnovateForVegas organization on GitHub.
       1. If you have no idea what this is, read about [GitHub](github.md) first, then come back here!
       2. If you have no idea what git is, bookmark this online documentation for [Git](https://git-scm.com/) and ask questions along the way, it is a useful tool in general.
-      3. If you do not already have a GitHub account, please sign up for one! It will be useful for many things, even if you are more interested in CreateFor.Vegas than CodeFor.Vegas and do not consider yourself a *coder*, since we are using GitHub for project management and discussions.
-      4. Share your GitHub username to [Addme + GitHub @ innovateforvegas.org](mailto:addme+github@innovateforvegas.org) to be added to the InnovateForVegas organization on GitHub.
+      3. If you do not already have a GitHub account, please sign up for one! It will be useful for many things, even if you do not consider yourself a *coder*, since we are using GitHub for project management and discussions, and most importantly to make sure we provide adequate attribution to all contributors.
+      4. While logged in to your preferred GitHub account, visit our [Join Request](https://github.com/orgs/InnovateForVegas/discussions/categories/join-request) discussion area and start a new discussion, fill in the template, and the process begins!
       5. Please do try to participate in the various projects which you find interesting, including reading announcements and discussions which relate to the areas you find interesting and wish to contribute to.
-3. Share your email address for our mailing list at [Addme+listserv @ innovateforvegas.org](mailto:addme+listserv@innovateforvegas.org). This is optional, but encouraged.
-4. Generate a PGP/GPG Key Pair for use on GitHub and for secure email, among other things. If you are unfamiliar with PGP and GPG, please check out the primer [PKI](publickey.md).
-5. Join our self-hosted messaging server (Matrix) with a client of your choice
-6. Join our [Discord Server](https://discord.com/invite/gh5FAahd9P)
-7. Pick your project(s) and ask about joining a project team to commence creative work!
+3. Generate a PGP/GPG Key Pair for use on GitHub and for secure email, among other things. If you are unfamiliar with PGP and GPG, please check out the primer [PKI](publickey.md).
+4. Pick your project(s) and ask about joining a project team to commence creative work!
 
 The first few steps are rather simple, that last one is where the real fun begins and is, ironically, the one we take most seriously.
 
