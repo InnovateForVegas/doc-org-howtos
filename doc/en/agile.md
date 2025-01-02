@@ -21,7 +21,7 @@
 
 Agile methodologies were developed by software developers for software developers and the infrastructure in which the business of software development takes place.
 
-The [Agile Manifesto](http://agilemanifesto.org/) is the fundamental description of what Agile was conceived to be; we can start with one slight modification here:
+The [Agile Manifesto](http://agilemanifesto.org/) is the fundamental description of what Agile was conceived to be, or rather, what those who adopt an Agile approach could begin with, to turn it into what works for them; we can start with one slight modification here:
 
 > - Individuals and interactions over processes and tools
 > - Working *projects* over comprehensive documentation
@@ -41,10 +41,17 @@ The [Agile Manifesto](http://agilemanifesto.org/) is the fundamental description
 >
 > © 2001, the above authors this declaration may be freely copied in any form, but only in its entirety through this notice.
 
-We can focus on a whole-team approach across project and project focus areas, rather than considering only the software parts. A project may include zero software, but we may attempt to follow Agile methods in developing that project nevertheless.
+We can focus on a whole-team approach across Entities (Initiatives, Component Projects, and other such things) and various focus areas, rather than considering only the software parts. Any Entity may include zero software, but we shall endeavor to apply Agile, and specifically Agile for Volunteers methods in developing that Entity nevertheless.
 
 ## New Component Project Repository
 
-We have created a separate, more detailed component of our Infrastructure Initiative.
+We have created a separate, more detailed component of our Infrastructure Initiative as we continue focus on our own development and use of Agile for Volunteers.
 
-Please visit the [Agile for Volunteers Repository](https://github.com/InnovateForVegas/doc-agile-for-volunteers) for more detail, example workflow templates, and more!
+[Agile for Volunteers Documentation Repository](https://github.com/InnovateForVegas/doc-agile-for-volunteers)
+
+## New Initiative Org and Website
+
+In order to bring Agile for Volunteers to a larger audience, whether civic volunteer organizations or other volunteer-powered cohorts and efforts, we hope that more adopters will mean more contribution of new ideas.
+
+- [GitHub Org: AgileForVolunteers](https://github.com/AgileForVolunteers)
+- [Homepage: AgileForVolunteers.org](https://agileforvolunteers.org/)
