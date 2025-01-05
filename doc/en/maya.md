@@ -29,9 +29,8 @@ This is not always true. Were he still around we might ask one of the more proli
 
 While Loewy was an industrial designer, he did dabble in logo design, and was keenly aware of the user experience in general. It is worthwhile looking at how he approached some of his designs when imagining your own, whether designing software, user interface, overall user experience, logos, or just about anything that will come into contact with the people you are building your notion for.
 
-[Official Raymond Loewy Website](https://www.raymondloewy.com/)
-
-[Raymond Loewy on Wikipeda](https://en.wikipedia.org/wiki/Raymond_Loewy)
+- [Official Raymond Loewy Website](https://www.raymondloewy.com/)
+- [Raymond Loewy on Wikipeda](https://en.wikipedia.org/wiki/Raymond_Loewy)
 
 These links are merely starting points, if you are at all interested in the bigger picture and longer story.
 
@@ -49,11 +48,11 @@ The TED Talk can be found at
 
 Use of the term *sell* here is obviously applicable to actually selling a product to a customer, new or returning, but it applies just as easily to any presentation of any product or service, free or paid, to anyone, and how they respond to it. It is the surprise of your innovation applied to a familiar thing that will lead to that *lean-in* moment, and it is the discipline of your user empathy that gently introduces your innovative surprise via something familiar to the user.
 
-## Applying This to Your Projects
+## Applying This to Your Work
 
 If you are new to all of this, or if you have been around for a while, your volunteer time is valuable. Trying out a radical idea is interesting and not discouraged by any means, but it is worthwhile to explore, as a potential alternative or as a path to deploying a final version of the radical notion, the possibility of MAYA to avoid scaring off or confusing or otherwise frustrating the people who will make use of your creativity.
 
-If we use the typical example project topic, Open Transit, suppose you have a great idea for a new way to show a transit user where the bus or bike they are looking for is at present, including perhaps a map and a time and an arrival stop location and perhaps some other information. The RTC of Southern Nevada presently (as this was written) depends on a mobile application called TransitApp to convey this rider experience, your idea may well obsolete that application overnight!
+If we use the typical example Initiative topic, Open Transit, suppose you have a great idea for a new way to show a transit user where the bus or bike they are looking for is at present, including perhaps a map and a time and an arrival stop location and perhaps some other information. The RTC of Southern Nevada presently (as this was written) depends on a mobile application called TransitApp to convey this rider experience, your idea may well obsolete that application overnight!
 
 Or, what if this great new idea is so new, that it take some time to become familiar with. Transit users will almost certainly make use of this new tool at the time(s) they are waiting to use public transportation to get to work, to get home, to get to school, maybe to get to a hospital to visit a loved one, who can say? One potential strategy is to offer your innovations as *surprises* within a *familiar* interface, which may actually look and feel a lot like the platform you want to supplant.
 
