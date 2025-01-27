@@ -29,7 +29,7 @@ Please find these documents in this directory:
 |---------------------------------------------------------------------|------------------------------------------------------|
 | [Welcome](welcome.md)                                               | Start here for some basic info!                      |
 | [Volunteering](volunteering.md)                                     | What is Volunteering and how to do it!               |
-| [Creating + Coding + Contributing](coding-creating-contributing.md) | Not everything is code!                              |
+| [Contributing For](contributing-for.md) | Not everything is code!                              |
 | [PKI](publickey.md)                                                 | Public Key Infrastructure, PGP, GnuPG, etc…          |
 | [GitHub](github.md)                                                 | The beginning of the beginning about Git and GitHub  |
 | [Naming Things](naming.md)                                          | Naming and Tagging repositories for finding them     |
