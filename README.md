@@ -29,22 +29,22 @@ Please visit the [doc/](doc/) directory within this repository to view and optio
 
 ## Project Policies
 
-Unless otherwise and specifically indicated with replacement files in this repository, this project will adhere to the default Innovate for Vegas Foundation policies for Code of Conduct and Contributing, found at
+Unless otherwise and specifically indicated with replacement files in this Component Project repository, this project will adhere to the default Innovate for Vegas Foundation policies for Code of Conduct and Contributing, found at
 
-* [Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
-* [Contributing to this Project - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
+- [Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Contributing to this Project - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
 
-## Contributing to This Documentation Project In Particular
+## Contributing to This Documentation Repository In Particular
 
-This project repository is intended to be helpful in general and into the future. This means that any document or link or piece of advice concerning a method or best practice, is subject to improvement, general revision, or maybe even outright replacement. Whether you are comfortable with GitHub specifically or revision control in general, or not, be aware that these are most definitely living documents, and this project repository is intended to change with the times. Internet times.
+This Component Project repository is intended to be authoritative at best, normative at least, helpful in general and into the future. This means that any document or link or piece of advice concerning a method or best practice, is subject to improvement, general revision, or maybe even outright replacement. Whether you are comfortable with GitHub specifically or revision control in general, or not, be aware that these are most definitely living documents, and this project repository is intended to change with the times. Internet times.
 
 If you have ideas for changes or additions (or subtractions), please do not hesitate to either make a Pull Request, or ask for some assistance if you have no idea what that is. It is not that difficult, not at all.
 
 ## Adding Code to this Repository?
 
-Please do not add actual code to this project repository. It is intended for documentation first and foremost.
+Please do not add actual code to this Component Project repository. It is intended for documentation first and foremost.
 
-Since this is a Howto and should be some help to onboard newcomers, it is not entirely inappropriate to include samples of code, such as helpful git scripts (maybe using the gh command line tool for GitHub?) or some snippets of YAML for configs or ansible or GitHub actions or who knows what else. This sample code snippet should be included inline to coincide with a Howto section as appropriate.
+Since this is a Howto and should be some help to onboard newcomers, it is not entirely inappropriate to include samples of code, such as helpful git scripts (maybe using the gh command line tool for GitHub?) or some snippets of YAML for configs or ansible or GitHub actions or who knows what else. This sample code snippet should be included inline using the usual Git Flavored Markup to coincide with a Howto section as appropriate.
 
 ```bash
 echo "This is some inline sample code"
