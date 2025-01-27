@@ -19,25 +19,29 @@
 
 # Secrets
 
-A secret is something that should not be shared with others, whether those others are people, companies, computers, or anything else. The only way to ensure a secret remains a secret is to never divulge it in any way to anyone, never write it down, never utter it out loud in your sleep, never tap it out in Morse Code on your desk with your pencil. Never.
+A secret is something that should not be shared with others, whether those others are people, companies, computers, or anything else one might imagine. The only way to be certain that a secret remains a secret is to never divulge it in any way to anyone, never write it down, never utter it aloud in your sleep, never tap it out in Morse Code on your desk with your pencil. Never.
 
-Let us address all of the secrets that cannot be kept so secret.
+As it is said, one person may know a secret, if it is more than one, it is no longer a secret. Let us address all of the secrets that cannot be kept so secret.
 
 ## Passwords
 
 You have a GitHub password, perhaps, or maybe a password that you use to log in to your email account, or maybe you have a PIN code that you use to unlock your mobile phone. You should never write that password down anywhere, ever. This does not guarantee it cannot be compromised, but it is all you can do on your side of the authentication process to protect it. Your mobile device, your email provider, or GitHub all know your password also (well, they can verify it), and any time a password is stored somewhere else there is a chance that it could be stolen, but we can hope that the other side of your password-protected account is not storing your password as what is called Clear Text, but is instead storing a salted hash, at least.
 
-If you are not storing your passwords in your personal memory (if you have more than 10 secure passwords, *and they are all different,* you have probably reached an upper limit on convenience), you should be storing them in an encrypted password store, like Bitwarden or password-manager or 1Password or similar. Keep your passwords safe, and keep the place where you store them safe, and make sure you can trust that if you are not keeping your passwords safe when they are stored, that you can trust the service that claims to be doing that for you (we like Bitwarden, but there are many fine services out there). It is essential that these services store your information encrypted and *without* recovery. This means only you know your main password to unlock what they usually call a Vault that holds your encrypted passwords.
+If you are not storing your passwords in your personal memory (if you have more than 10 secure passwords, *and they are all different,* you have probably reached an upper limit on convenience), you should consider storing them in an encrypted password store, like Bitwarden or password-manager or 1Password or similar. Keep your passwords safe, and keep the place where you store them safe, and make sure you can trust that if you are not keeping your passwords safe when they are stored, that you can trust the service that claims to be doing that for you (we like Bitwarden, but there are many fine services out there). It is essential that these services store your information encrypted and *without* recovery. This means only you know your main password to unlock what they usually call a Vault that holds your encrypted passwords.
 
-This may seem obvious, but how you manage your personal passwords and the tools you use to store them is important!
+Your security practices, the ways in which you manage your personal passwords and the tools you use to store them is important! The same applies to non-personal accounts and credentials, but more so.
+
+## Passkeys
+
+Passkeys are evolving quickly, watch this space for more information about we apply the use of Passkeys in general, or visit the GitHub documentation for how to use Passkeys with your GitHub account.
+
+[GitHub Doc: About Passkeys](https://docs.github.com/en/authentication/authenticating-with-a-passkey/about-passkeys)
 
 ## Non-personal Accounts
 
-As you participate in more projects and activities in an organization such as Innovate for Vegas Foundation, or maybe in your own collaborative projects, or in a job at any company, you may find yourself with accounts that are not really yours. Your company email address, a cloud service account, an alternate GitHub account for paid work projects using Enterprise Authentication, or any number of similar possibilities. In these cases, the account may have associated with it a lot more intellectual property, collaborative work, financial implications, and so on. Imagine that as painful and expensive as it may be if you were to lose or otherwise compromise your own password(s), allowing a non-personal account compromise can be even worse, and may involve more people than yourself. If you have established your own best practices for managing and protecting your own secrets, apply those best practices to the secrets attached to your non-personal accounts and services.
+As you participate in an organization such as Innovate for Vegas Foundation, or maybe in your own collaborative projects, or in a job at any company, you may find yourself with accounts that are not really yours or that you possess in addition to our own personal accounts (these may be yours, but with a specific purpose, there are many scenarios). Your company email address, a cloud service account, an alternate GitHub account for paid work projects using Enterprise Authentication, or any number of similar possibilities. In these cases, the account may have associated with it a lot more intellectual property, collaborative work, financial implications, and so on. Imagine that as painful and expensive as it may be if you were to lose or otherwise compromise your own password(s), allowing a non-personal account compromise can be even worse, and will likely impact more people than yourself. If you have established your own best practices for managing and protecting your own secrets, apply those best practices to the secrets attached to your non-personal accounts and services.
 
-It is important to connect non-personal accounts and associated secrets with the responsibility that goes with possessing those secrets and using those accounts.
-
-## Non-personal Credentials
+### Non-personal Credentials
 
 With the explosion of cloud services and the ability to make use of these services across various accounts and regions and teams, there has been a substantial increase in the use of IAM, or Identity and Access Management, commonly found with that acronym using Amazon Web Services and more and more services every day. In fact, as we will cover in the next section, IAM as a general concept applies to everything in this document.
 
