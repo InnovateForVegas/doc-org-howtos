@@ -19,9 +19,11 @@
 
 # GitHub and Innovate for Vegas Foundation
 
-GitHub is a useful platform for a variety of things. Because it is essentially free to use for our needs.
+GitHub is a useful platform for a variety of things. Because it is essentially free to use for our needs, we make use of its various features and central accessibility for a variety of needs, beyond the typically-assumed revision tracking for code.
 
-We ask that those who would like to participate in projects, whether they are CodeFor or CreateFor or somewhere in between (or maybe even neither), because we will be using some of the project management features that GitHub offers, and we can make these tools a part of our attribution project so that when anyone applying for [jobs](jobs.md) or pursuing any avenues where a reference to contributed work is needed and beneficial, we can point right here!
+We ask that those who would like to participate in our Initiatives, have or sign up for a GitHub individual user account, because we will be using the project management features that GitHub offers, among a variety of features, and we can make these tools a part of our attribution project so that when anyone applying for [jobs](jobs.md) or pursuing any avenues where a reference to contributed work is needed and beneficial, we can point right here!
+
+Note that *git* is a command line tool and application, in lowercase, while *GitHub* is a git-based service (with many other features) implemented with a web interface as well as a command line interface called *gh*, but which is also useable with the *git* command line tools. Use of the GitHub web interface as a minimum will be sufficient for contributors to our Initiatives.
 
 ## Getting Started
 
@@ -33,11 +35,11 @@ Once you have an account, you will probably want to familiarize yourself with ho
 
 [GitHub Doc: Getting Started with your Account](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account) .
 
-If you have never used Git or GitHub before, there is a lot to learn, but starting out with reading this document and the other Howto information we are creating for our volunteers, looking at other repositories and reading other related documentation, watching various YouTube video tutorials, and simply asking questions of your fellow volunteers will help you become familiar.
+If you have never used git or GitHub before, there is a lot to learn, but starting out with reading this document and the other Howto information we are creating for our volunteers, looking at other repositories and reading other related documentation, watching various YouTube video tutorials, and simply asking questions of your fellow volunteers will help you become familiar.
 
 [GitHub Doc: Git and GitHub Learning Resources](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources)
 
-If you want to take a crash course in Git and GitHub, there is a very reasonable tutorial offered by freeCodeCamp here:
+If you want to take a crash course in git and GitHub, there is a very reasonable tutorial offered by freeCodeCamp here (there are countless resources on YouTube or in article form for all levels of git and GitHub knowledge):
 
 [YouTube: Git and GitHub For Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
@@ -51,49 +53,43 @@ The *InnovateForVegas* GitHub organization has owners, maintainers, teams, and m
 [GitHub Doc: Team Maintainers](https://docs.github.com/en/organizations/organizing-members-into-teams/assigning-the-team-maintainer-role-to-a-team-member)
 [GitHub Doc: Repository Roles for an Organization](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/repository-roles-for-an-organization)
 
-## Projects and Repositories
+## GitHub Projects and Repositories
 
-We are using the new form of GitHub Project to organize repository-based project issues, which are used to track progress through individual repository lifecycles. How does that sound?
+We are using the GitHub Project feature to organize repository-based project issues, which are used to track progress through individual Component Project repository life cycles.
 
 Let us examine that more closely:
 
-We are pursuing monthly projects that are all going to make up some part of the capstone project. Our first capstone is Virtual Vegas, and so projects addressing transit, open data, human interface, identity, and so on, all form parts of this overarching capstone.
+Each Initiative will consist of at least one, and likely many more than one Component Project, which we can track and manage within the GitHub repository infrastructure (except in cases where we cannot…), and we can map our Component Projects to GitHub projects, and the actual component parts of our projects to GitHub component repositories as part of GitHub projects.
 
-Each project will consist of at least one, and likely many more components, which we can track and manage within the GitHub infrastructure (except in cases where we cannot…), and we can map our projects to GitHub projects, and the actual component parts of our projects to GitHub component repositories as part of GitHub projects.
+This may sound confusing, but if you are contributing to a documentation repository, and someone else is contributing to a code repository, we can use the same workflow to attribute contributions to each without either person needing to be familiar with the particulars of the others´ repository. Each Component Project is insulated in some ways but can be brought together and integrated into the overall Initiative. This will become obvious in practice.
 
-There is a top-level view of all organization projects that have been created (and are open, in the default view here), you can visit that page for our organization and see a list of projects to begin examining them:
+There is a top-level view of all organization projects that have been created (and are open, in the default view linked below), you can visit that page for our organization and see a list of projects to begin examining them:
 
 [InnovateForVegas Projects](https://github.com/orgs/InnovateForVegas/projects)
 
-Since this is a live document, you will need to visit that link and discover the state of a given project at any given time, but suffice to say, as we gain traction using the [issue](issues.md) system per repository, we will begin to see how project management across project components can be an interesting challenge, made slightly easier with tools such as those GitHub offers (there are better, more capable, and much more expensive tools, to be sure).
+Since this is a live document, you will need to visit that link and discover the state of a given project at any given time but suffice to say, as we gain traction using the [issue](issues.md) system per repository, we will begin to see how project management across project components can be an interesting challenge, made slightly easier with tools such as those GitHub offers (there are better, more capable, and much more expensive tools, to be sure).
 
 ## Repository Naming and Tagging
 
-As more people contribute to more projects and more project repositories are created, it will become more and more difficult to locate what you are looking for within our GitHub organization. Until GitHub introduces a folder-like interface to group repositories, we need a workaround!
+As more people contribute to more Initiatives and Component Projects and more Component Project repositories are created, it will become more and more difficult to locate what you are looking for within our GitHub organization. Until GitHub introduces a folder-like interface to group repositories, we need a workaround!
 
-First of all, a prefix helps with sorting and grouping in English Alphabet alphabetical order. These also give some indication of what the repository is for.
+To address this need for some structure, we have a consistent naming scheme described in the [Naming](naming.md) document, including repository prefix and suffix text that will help with determining quickly which Component Project repositories are which (this does not replace the need for useful description detail and README content for each repository).
 
-For examples, Overview Repositories will begin with a leading *ov-* and will be named for the project itself, ie
+As well, each of these repositories is tagged with an ifv- tag per, which will make it easier to group InnovateForVegas org repositories by Initiative. Tag names begin with *ifv-* since GitHub does not allow namespaced tags, so that if one were to tag a repository with *javascript* then ALL repositories with that tag are returned in a search, while tagging a repository with *ifv-javascript* will make searching a bit more specific. Constrained searches are available, but we can easily begin by tagging InnovateForVegas project repositories with that *ifv-* prefix for formatted tags and achieve some convenience directly.
 
-[ov-open-transit](https://github.com/InnovateForVegas/ov-open-transit)
-
-[ov-smart-social](https://github.com/InnovateForVegas/ov-smart-social)
-
-As well, each of these is tagged with a cfv- and ifv- tag per project, which will make it easier to group InnovateForVegas org repos by project. Tag names begin with *cfv-* since GitHub does not allow namespaced tags, so that if one were to tag a repository with *javascript* then ALL repositories with that tag are returned in a search. Constrained searches are available, but we can easily begin by tagging InnovateForVegas project repositories with the *cfv-* and *ifv-* formatted tags and achieve some convenience directly.
-
-**Note**: GitHub tags are for our convenience, git tags are a part of the revision control scheme and are a different thing. If you are curious about this, start at the reference link below…
+**Note**: GitHub tags are for our convenience, git tags are a part of the revision control scheme and are a different thing. If you are curious about this, learn more from the more formal git documentation on other useful resources in the References section below…
 
 ## Signed Commits
 
 Should you sign your commits? **Yes**.
 
-Innovate for Vegas Foundation will be leaning heavily toward encryption, security, authentication, and all of these other readily-available technologies and methods and protocols that have existed for decades, but which many do not use! We aim to change this to make a more secure and privacy-aware Smart City!
+Innovate for Vegas Foundation will be leaning heavily toward encryption, security, authentication, and all of these other readily-available technologies and methods and protocols that have existed for decades, but which many do not use! We aim to change this to make a more secure and privacy-aware Smart City, beginning with familiarity and regular use of these.
 
 What is a signed commit? Read here:
 
 [GitHub Doc: Signing Your Commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits)
 
-Use of GPG keys (GPG stands for Gnu Privacy Guard and is an homage to Phil Zimmerman’s PGP, or Pretty Good Privacy, which brought real public key cryptography to the masses decades ago!) is the easiest way to start, and when you generate your key pair (one set of instructions is in the signing documentation there, there are other ways and they all work) you will start the journey toward becoming familiar with how public key cryptography works. This is a great thing.
+Use of GPG or GnuPG keys (GPG/GnuPG stands for Gnu Privacy Guard and is an homage to Phil Zimmerman’s PGP, or Pretty Good Privacy, which brought real public key cryptography to the masses decades ago) is the easiest way to start, and when you generate your key pair (one set of instructions is in the signing documentation linked above, there are other ways and they all work) you will become familiar with how public key cryptography works. This is a great thing.
 
 ## Two Factor Authentication
 
@@ -109,46 +105,45 @@ Caveat: If you are already logged into an account, whether it is your ancient an
 
 ## GitHub Discussions and Issues
 
-If you would like to participate in a project but you are not quite comfortable yet to edit code or start your own repository or all of the other fun stuff, consider reviewing a repository and adding to the Discussion for that repository, or consider creating a new Issue for that repository. These are relatively easy (especially a Discussion item, very similar to participating in any discussion forum anywhere) and will offer value to the project and team!
+If you would like to participate in an Initiative or Component Project but you are not quite comfortable yet to edit code or start your own repository or all of the other fun stuff, consider reviewing a repository and adding to the Discussion for that repository, or consider creating a new Issue for that repository. These are relatively easy (especially a Discussion item, very similar to participating in any discussion forum anywhere) and will offer value to the project and team while you familiarize yourself.
 
-Filing an Issue may seem more complicated, but remember that an Issue is just a more formal Discussion item that is assigned to a person and which can be used to track a change to the project repository later. This sounds complicated, it is not. An Issue is a *To Do* item. Any Discussion can be converted to an Issue and vice versa. Each Project Repository has Discussions enabled (if you find a repository that does not, it should or will), and all repositories have Issues enabled.
+Filing an Issue may seem more complicated, but an Issue is simply a more formal Discussion item that is assigned to a person and which can be used to track a change to the Component Project repository over time. This sounds complicated, it is not. An Issue is essentially a *To Do* item. Any Discussion can be converted to an Issue and vice versa. Each Component Project Repository has Discussions enabled (if you find a repository that does not, it should or will), and all repositories have Issues enabled.
 
 These might be useful documents to read through:
 
-[GitHub Doc: Discussions](https://docs.github.com/en/discussions)
-
-[GitHub Doc: Issues](https://docs.github.com/en/issues)
+- [GitHub Doc: Discussions](https://docs.github.com/en/discussions)
+- [GitHub Doc: Issues](https://docs.github.com/en/issues)
 
 ## GitHub Pull Requests
 
-A Pull Request is a workflow step that enables you to suggest a change to a project repository. The Pull Request, or PR, has become commonplace and so it is something to become familiar with. Pull Requests are not the only way to suggest changes but we are making use of this process since it is so common.
+A Pull Request is a workflow step that enables you to suggest a literal change to a Component Project repository. The Pull Request, or PR, has become commonplace and so it is something to become familiar with if you intend to submit actual changes (additions, removals, other edits). Pull Requests are not the only way to suggest changes but we are making use of this process since it is so common.
 
-Very simply put, a Pull Request is a request for someone maintaining a GitHub project repository, to consider your changes for merging into the repository. This method allows for change suggestions from those not actively participating in development in a particular repository, and is also good practice so that changes made can be reviewed before merging and possibly breaking an actively-developed project.
+Very simply put, a Pull Request is a request for someone maintaining a GitHub project repository (anywhere on GitHub and even on other platforms which implement the Pull Request scheme), to consider your changes for merging into the repository. This method allows for change suggestions from those not actively participating in development in a particular repository, and is also good practice so that changes made can be reviewed before merging and possibly breaking an actively-developed project.
 
-Pull Requests include use of Repository Forks and Code Reviews and Discussions and are a way to synchronize collaboration without introducing too much confusion. A Pull Request can be somewhat complicated if you are new to collaborative project development, so please take a look at the GitHub documentation for Pull Requests:
+Pull Requests include use of Repository Forks and Code Reviews and Discussions and are a way to synchronize collaboration without introducing too much confusion (really, less confusion that might appear in this description). A Pull Request can appear slightly complicated if you are new to collaborative project development, so please take a look at the GitHub documentation for Pull Requests and understand that using the Pull Request workflow prevents anyone breaking anything too easily:
 
 [GitHub Doc: Pull Requests](https://docs.github.com/en/pull-requests)
 
 ## Attribution
 
-It is a fundamental tenet of our organization, to attribute work done to those responsible. GitHub is a great tool for this, in cases where an individual commits work, whether it is new, or a modification of previous work (and whether it is code, or references to other works). The git and GitHub (and GitLab, and others) model assumes there is a one-to-one correspondence between effort and an official commit, but this is not always the case!
+It is a fundamental tenet of our organization to attribute work done to those responsible. GitHub is a great tool for this, in cases where an individual commits their creative work, whether it is new, or a modification of previous work (and whether it is code, or references to other works, or anything really). The git and GitHub (and GitLab, and others) model assumes by default that there is a one-to-one correspondence between the person contributing the effort and an official commit, but this is not always the case!
 
-GitHub and GitLab (and to a lesser extent, git itself with external tools) support a Co-Author scheme, with references to collaborators included in Commit Comments in a structured way, so that these platforms will find and display the additional contributors to project commits (and thus, projects).
+GitHub and GitLab (and to a lesser extent, git itself with external tools) support a Co-Author scheme, with references to collaborators included in Commit Comments in a structured way, so that these platforms will find and display the additional contributors to project commits (and thus, Initiatives and Component Projects). Please read over this GitHub document, it is useful and important for our larger attribution goals.
 
 [GitHub Co-Author Attribution](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors)
 
 There are two important notes here:
 
-1. The commit itself is still officially owned, and signed, by a single individual. This is not ideal in a future with collaboration being the norm, but it does make a reasonable assumption that a single *owner* of a new or changed element is responsible for it, with additional collaborators attributed explicitly. We will pursue this scheme and we will ask that all are careful to include collaborator attribution whenever it is appropriate.
+1. The commit itself is still officially owned, and signed, by a single individual. This is not necessarily ideal in a future with collaboration being the norm, but it does make a reasonable presumption that a single *owner* of a new or changed element is responsible for it, with additional collaborators attributed explicitly. We will pursue this scheme and we will ask that all are careful to include collaborator attribution whenever it is appropriate.
 2. There are some cases where an individual may not wish to share their email address, and in these cases GitHub (and possibly other platforms) offers an indirect email address option. As you can see above, the co-author annotation scheme is based on email address, and the email address used must be associated with a GitHub (for example) account. While using a platform-specific indirect email address makes it difficult to move repositories to other platforms maintaining the attribution, this is a useable method to accomplish private attribution. See this document for GitHub, and remember to use the preferred email address for each of your co-authors whenever you collaborate so that they receive proper attribution!
 
 [GitHub Private Commit Email Addresses](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)
 
 ## The End of The Beginning
 
-There is far too much to talk about regarding Git and GitHub, this Howto is here to help you jump on board the Innovate for Vegas Foundation team and you will learn about this tool and more throughout your time participating with your team and projects. If you need help with any of these steps and suggestions above, do not hesitate to reach out at an in-person meetup or other gatherings or online, your colleagues are there to help. It is important that you are a part of a security-conscious and workflow-conscious cohort so that we can all make the most of our volunteer time and in so doing, learn valuable skills in areas of projects, project management, collaboration, experimentation, and of course the use of tools to shift your focus from mundane tasks to creativity!
+There is far too much to talk about regarding git and GitHub, this Howto is here to help you jump on board the Innovate for Vegas Foundation team and you will learn about this tool and more throughout your time participating with your team and projects. If you need help with any of these steps and suggestions above, do not hesitate to reach out at an in-person meetup or other gatherings or online, your colleagues are there to help. It is important that you are a part of a security-conscious and workflow-conscious cohort so that we can all make the most of our volunteer time and in so doing, learn valuable skills in areas of projects, project management, collaboration, experimentation, and of course the use of tools to shift your focus from mundane tasks to creativity!
 
-Git is not perfect and GitHub has its issues, but they do most of what we need well enough that we can depend on them to get you and us much farther (and further) down the path than if we did not have them. Worth your time to check this stuff out, see some initial references below, and do not for a moment believe that this is the end of the learning.
+Git is not perfect and GitHub has its issues, but they do most of what we need well enough that we can depend on them to get you and us much farther (and further) down the path than if we did not have them. It is worth your time to check this stuff out, see some initial references below, and do not for a moment believe that this is the end of the learning.
 
 ## References
 
