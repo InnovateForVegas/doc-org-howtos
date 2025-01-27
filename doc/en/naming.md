@@ -64,13 +64,13 @@ Organization of each repository, and of project components not stored within Git
 
 ### Reasoning behind name prefixes
 
-GitHub does not make it easy to group projects. The repository tags (see next section) are useful, but not sufficient.
+GitHub does not make it easy to group projects. The repository tags (see next section) are useful, but not sufficient, and it is possible to use the star feature and group stars by named list. These are not ideal, where a way of grouping by directory might be more so.
 
-The choices for structured repository naming come down to either a fixed project name prefix, a language or framework prefix, or a repository type prefix. The name of the repository may vary from the Entity name per Entity repo as appropriate (for example, within the Smart Social Initiative, there is a repository called be-smart-calendar-server-py which does not explicitly include the Initiative name but which is a Component Project of same), and it we can group Entities with the repository tags detailed below, where the tags themselves have the problem use cases described.
+The choices for structured repository naming come down to either a fixed Entity name prefix, a language or framework prefix, or a repository type prefix. The name of the repository may vary from the Entity name per Entity repository as appropriate (for example, within the Smart Social Initiative, there is a repository called be-smart-calendar-server-py which does not explicitly include the Initiative name but which is a Component Project of same), and it we can group Entities with the repository tags detailed below, where the tags themselves have the problem use cases described.
 
 For structured naming, then, and with GitHub presenting repositories sorted most easily by name or last-commit date (that is, Last Update, Name, and the not-useful Stars sort options) in the browser based interface, a prefix that indicates the repository type (see table above for examples) will naturally sort repositories into type sections, with the name of the project component useful thereafter to drill down to the desired component(s). Additional information in a suffix allows for similarly-named project components implemented in multiple ways, or with multiple types of external tools, and so on.
 
-Note also, this naming scheme is useful outside of GitHub, if there are multiple repositories in your local environment you can quickly sort and identify which is for what.
+Note also, this naming scheme is useful outside of GitHub, if there are multiple repositories in your local environment you can quickly sort and identify which is for what. In a local development directory structure it is also possible, perhaps recommended, to use folders or directories to group Initiative repositories together.
 
 ### Entity Repository Naming Example
 
@@ -83,7 +83,7 @@ Note also, this naming scheme is useful outside of GitHub, if there are multiple
 | api-open-transit-consumer     | A language-agnostic API spec (eg OpenAPI) for Consumer features                     |
 | be-open-transit-consumer-py   | A back-end Open Transit server for consumer application interfacing                 |
 
-The number of component projects may change over time, and there is room for experimentation and retiring of one or more repositories in favor of one or more others, and so on. A search by project name will be useful, but since in this example each repository contains the project name (ie open-transit) the search results will be conclusive, if at any time a repository is added called eg bus-rider it would be effectively hidden from search results without prior knowledge. This naming scheme does not address that at all, other than increase the possibility of coming across this naming variation if one is looking for front-end projects and fe-bus-rider appears in the result set.
+The number of Component Projects may change over time, and there is room for experimentation and retiring of one or more repositories in favor of one or more others, and so on. A search by project name will be useful, but since in this example each repository contains the project name (ie open-transit) the search results will be conclusive, if at any time a repository is added called eg bus-rider it would be effectively hidden from search results without prior knowledge. This naming scheme does not address that at all, other than increase the possibility of coming across this naming variation if one is looking for front-end projects and fe-bus-rider appears in the result set.
 
 ### Naming other things
 
@@ -95,9 +95,9 @@ If there is a Style Guide within a particular Component Project Repository, and/
 
 ### Repository Topic Tags
 
-GitHub enables use of repository tags to help locate repositories. These are global to the GitHub platform and will reveal all public repositories to all seeking a matching tag, which can be useful in some case but less than useful in others. They are visible in a Topic search on GitHub.
+GitHub enables use of repository tags to help locate repositories. These are global to the GitHub platform and will reveal all public repositories to all seeking a matching tag, which can be useful in some cases for broad discovery but less than useful in others such as grouping our organization repositories in useful ways. They are visible in a Topic search on GitHub.
 
-The smallest useful unit of work for our purposes within git and GitHub (and GitLab and others) is the project repository, and in an organization with many contributors the number of individual repositories associated with one or more projects can grow quickly. The ability to sort and group and search and list repositories can become a bit of a challenge. The tagging scheme can be useful, even with the caveat that tags on public repositories are visible globally. We can make an effort to isolate our own tags for our own sorting needs withing our organization.
+The smallest useful administrative unit of for our purposes within git and GitHub (and GitLab and others) is the project repository, and in an organization with many contributors the number of individual repositories associated with one or more projects can grow quickly. The ability to sort and group and search and list repositories can become a bit of a challenge. The tagging scheme can be useful, even with the caveat that tags on public repositories are visible globally. We can make an effort to isolate our own tags for our own sorting needs withing our organization.
 
 We can accomplish some isolation by prefixing our repository tags with a known and uncommon prefix and hyphen, not unlike the repository naming scheme described above. Thus
 
